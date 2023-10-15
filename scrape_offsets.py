@@ -23,7 +23,6 @@ for i in range(len(df1)):
   data["name"] = name
 
   try:
-
     # Scope 1,2,3
     scopes_p = metrics_emissions.find_all("p", class_="p-sm-bold")
     data["scope_1"] = float(scopes_p[0].text.replace("tCO2e", "").replace(" ", "").replace(",", ""))
@@ -42,7 +41,6 @@ for i in range(len(df1)):
     data["total_offsets_tons_co2"] = float(total_offsets.text.replace("tCO2e", "").replace(" ", "").replace(",", ""))
 
     print(data)
-
     results.append(data)
   
   except:

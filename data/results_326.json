@@ -1,0 +1,3252 @@
+[
+  {
+    "name": "5DayDeal",
+    "url": "https://www.climateneutral.org/brand/5daydeal",
+    "scope_1": 0.0,
+    "scope_2": 73.0,
+    "scope_3": 132.0,
+    "total_offset_expenditure": 2682.1,
+    "total_offsets_tons_co2": 206.0,
+    "price_per_ton": 13.019902912621358
+  },
+  {
+    "name": "686",
+    "url": "https://www.climateneutral.org/brand/686",
+    "scope_1": 2.0,
+    "scope_2": 5.0,
+    "scope_3": 27282.0,
+    "total_offset_expenditure": 90057.0,
+    "total_offsets_tons_co2": 27290.0,
+    "price_per_ton": 3.3
+  },
+  {
+    "name": "Acumatica",
+    "url": "https://www.climateneutral.org/brand/acumatica",
+    "scope_1": 65.0,
+    "scope_2": 53.0,
+    "scope_3": 1620.0,
+    "total_offset_expenditure": 29515.0,
+    "total_offsets_tons_co2": 2780.0,
+    "price_per_ton": 10.616906474820144
+  },
+  {
+    "name": "Adanac Tech",
+    "url": "https://www.climateneutral.org/brand/adanactech",
+    "scope_1": 1.0,
+    "scope_2": 11.0,
+    "scope_3": 13.0,
+    "total_offset_expenditure": 200.0,
+    "total_offsets_tons_co2": 25.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "AdMixt",
+    "url": "https://www.climateneutral.org/brand/admixt",
+    "scope_1": 21.0,
+    "scope_2": 73.0,
+    "scope_3": 56.0,
+    "total_offset_expenditure": 1692.5,
+    "total_offsets_tons_co2": 151.0,
+    "price_per_ton": 11.208609271523178
+  },
+  {
+    "name": "advene",
+    "url": "https://www.climateneutral.org/brand/advene",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 136.0,
+    "total_offset_expenditure": 719.25,
+    "total_offsets_tons_co2": 137.0,
+    "price_per_ton": 5.25
+  },
+  {
+    "name": "All Good",
+    "url": "https://www.climateneutral.org/brand/all-good",
+    "scope_1": 4.0,
+    "scope_2": 25.0,
+    "scope_3": 3939.0,
+    "total_offset_expenditure": 16000.0,
+    "total_offsets_tons_co2": 4000.0,
+    "price_per_ton": 4.0
+  },
+  {
+    "name": "Allbirds",
+    "url": "https://www.climateneutral.org/brand/allbirds",
+    "scope_1": 448.0,
+    "scope_2": 362.0,
+    "scope_3": 37128.0,
+    "total_offset_expenditure": 371568.0,
+    "total_offsets_tons_co2": 40964.0,
+    "price_per_ton": 9.070598574357973
+  },
+  {
+    "name": "Alliance Trading Group",
+    "url": "https://www.climateneutral.org/brand/alliance-trading-group",
+    "scope_1": 0.0,
+    "scope_2": 7.0,
+    "scope_3": 83.0,
+    "total_offset_expenditure": 1314.0,
+    "total_offsets_tons_co2": 90.0,
+    "price_per_ton": 14.6
+  },
+  {
+    "name": "ALOHA",
+    "url": "https://www.climateneutral.org/brand/aloha",
+    "scope_1": 0.0,
+    "scope_2": 86.0,
+    "scope_3": 5743.0,
+    "total_offset_expenditure": 40374.0,
+    "total_offsets_tons_co2": 5828.0,
+    "price_per_ton": 6.927590940288264
+  },
+  {
+    "name": "Alpine Fit",
+    "url": "https://www.climateneutral.org/brand/alpine-fit",
+    "scope_1": 2.0,
+    "scope_2": 13.0,
+    "scope_3": 120.0,
+    "total_offset_expenditure": 923.75,
+    "total_offsets_tons_co2": 135.0,
+    "price_per_ton": 6.842592592592593
+  },
+  {
+    "name": "Alpine Start, Inc.",
+    "url": "https://www.climateneutral.org/brand/alpine-start",
+    "scope_1": 0.0,
+    "scope_2": 3.0,
+    "scope_3": 322.0,
+    "total_offset_expenditure": 2112.5,
+    "total_offsets_tons_co2": 325.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "Alter Eco",
+    "url": "https://www.climateneutral.org/brand/alter-eco",
+    "scope_1": 1.0,
+    "scope_2": 3.0,
+    "scope_3": 5781.0,
+    "total_offset_expenditure": 66911.0,
+    "total_offsets_tons_co2": 5786.0,
+    "price_per_ton": 11.564293121327342
+  },
+  {
+    "name": "Amika",
+    "url": "https://www.climateneutral.org/brand/amika",
+    "scope_1": 205.0,
+    "scope_2": 82.0,
+    "scope_3": 9242.0,
+    "total_offset_expenditure": 79745.0,
+    "total_offsets_tons_co2": 8849.0,
+    "price_per_ton": 9.011752740422647
+  },
+  {
+    "name": "Ana Luisa",
+    "url": "https://www.climateneutral.org/brand/ana-luisa",
+    "scope_1": 4.0,
+    "scope_2": 60.0,
+    "scope_3": 3821.0,
+    "total_offset_expenditure": 21872.01,
+    "total_offsets_tons_co2": 3885.0,
+    "price_per_ton": 5.629861003861003
+  },
+  {
+    "name": "Ananday",
+    "url": "https://www.climateneutral.org/brand/ananday",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 32.0,
+    "total_offset_expenditure": 274.9,
+    "total_offsets_tons_co2": 32.0,
+    "price_per_ton": 8.590625
+  },
+  {
+    "name": "Ancient + Brave",
+    "url": "https://www.climateneutral.org/brand/ancient-and-brave",
+    "scope_1": 10.0,
+    "scope_2": 0.0,
+    "scope_3": 264.0,
+    "total_offset_expenditure": 3904.5,
+    "total_offsets_tons_co2": 274.0,
+    "price_per_ton": 14.25
+  },
+  {
+    "name": "&BACK COFFEE",
+    "url": "https://www.climateneutral.org/brand/and-back-coffee",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 58.0,
+    "total_offset_expenditure": 1004.76,
+    "total_offsets_tons_co2": 60.0,
+    "price_per_ton": 16.746
+  },
+  {
+    "name": "Angel Chang LLC",
+    "url": "https://www.climateneutral.org/brand/angel-chang",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 4.0,
+    "total_offset_expenditure": 77.52,
+    "total_offsets_tons_co2": 4.0,
+    "price_per_ton": 19.38
+  },
+  {
+    "name": "Another Tomorrow",
+    "url": "https://www.climateneutral.org/brand/another-tomorrow",
+    "scope_1": 1.0,
+    "scope_2": 3.0,
+    "scope_3": 1554.0,
+    "total_offset_expenditure": 32120.91,
+    "total_offsets_tons_co2": 1557.0,
+    "price_per_ton": 20.63
+  },
+  {
+    "name": "Appalachian Gap Distillery",
+    "url": "https://www.climateneutral.org/brand/appalachian-gap-distillery",
+    "scope_1": 1.0,
+    "scope_2": 16.0,
+    "scope_3": 72.0,
+    "total_offset_expenditure": 1812.0,
+    "total_offsets_tons_co2": 89.0,
+    "price_per_ton": 20.359550561797754
+  },
+  {
+    "name": "Aquila's Nest Vineyards",
+    "url": "https://www.climateneutral.org/brand/aquilas-nest-vineyards",
+    "scope_1": 5.0,
+    "scope_2": 59.0,
+    "scope_3": 115.0,
+    "total_offset_expenditure": 1400.0,
+    "total_offsets_tons_co2": 200.0,
+    "price_per_ton": 7.0
+  },
+  {
+    "name": "Athletic Greens",
+    "url": "https://www.climateneutral.org/brand/athletic-greens",
+    "scope_1": 49.0,
+    "scope_2": 127.0,
+    "scope_3": 92360.0,
+    "total_offset_expenditure": 232843.71,
+    "total_offsets_tons_co2": 92536.0,
+    "price_per_ton": 2.51625
+  },
+  {
+    "name": "August",
+    "url": "https://www.climateneutral.org/brand/august",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 1934.0,
+    "total_offset_expenditure": 24950.75,
+    "total_offsets_tons_co2": 1936.0,
+    "price_per_ton": 12.887784090909092
+  },
+  {
+    "name": "AUVA Certification Limited",
+    "url": "https://www.climateneutral.org/brand/auva-certification",
+    "scope_1": 1.0,
+    "scope_2": 0.0,
+    "scope_3": 17.0,
+    "total_offset_expenditure": 137.75,
+    "total_offsets_tons_co2": 19.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Avocado Green Brands",
+    "url": "https://www.climateneutral.org/brand/avocado-green-brands",
+    "scope_1": 1.0,
+    "scope_2": 814.0,
+    "scope_3": 31935.0,
+    "total_offset_expenditure": 223996.0,
+    "total_offsets_tons_co2": 32751.0,
+    "price_per_ton": 6.839363683551647
+  },
+  {
+    "name": "Backbone Media",
+    "url": "https://www.climateneutral.org/brand/backbone-media",
+    "scope_1": 29.0,
+    "scope_2": 105.0,
+    "scope_3": 278.0,
+    "total_offset_expenditure": 5768.0,
+    "total_offsets_tons_co2": 412.0,
+    "price_per_ton": 14.0
+  },
+  {
+    "name": "Backdrop",
+    "url": "https://www.climateneutral.org/brand/backdrop",
+    "scope_1": 0.0,
+    "scope_2": 5.0,
+    "scope_3": 587.0,
+    "total_offset_expenditure": 5624.0,
+    "total_offsets_tons_co2": 592.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Balega",
+    "url": "https://www.climateneutral.org/brand/balega",
+    "scope_1": 42.0,
+    "scope_2": 83.0,
+    "scope_3": 5844.0,
+    "total_offset_expenditure": 60883.8,
+    "total_offsets_tons_co2": 5969.0,
+    "price_per_ton": 10.200000000000001
+  },
+  {
+    "name": "Bambu",
+    "url": "https://www.climateneutral.org/brand/bambu",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 1153.0,
+    "total_offset_expenditure": 9975.0,
+    "total_offsets_tons_co2": 1153.0,
+    "price_per_ton": 8.65134431916739
+  },
+  {
+    "name": "Baobab Foods",
+    "url": "https://www.climateneutral.org/brand/baobab-foods",
+    "scope_1": 0.0,
+    "scope_2": 19.0,
+    "scope_3": 342.0,
+    "total_offset_expenditure": 3429.5,
+    "total_offsets_tons_co2": 361.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Barrett Dixon Bell Limited",
+    "url": "https://www.climateneutral.org/brand/barrett-dixon-bell",
+    "scope_1": 4.0,
+    "scope_2": 14.0,
+    "scope_3": 132.0,
+    "total_offset_expenditure": 1800.0,
+    "total_offsets_tons_co2": 150.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "Bayrli",
+    "url": "https://www.climateneutral.org/brand/bayrli",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 8.0,
+    "total_offset_expenditure": 108.0,
+    "total_offsets_tons_co2": 8.0,
+    "price_per_ton": 13.5
+  },
+  {
+    "name": "Be Ultimate",
+    "url": "https://www.climateneutral.org/brand/be-ultimate",
+    "scope_1": 6.0,
+    "scope_2": 109.0,
+    "scope_3": 131.0,
+    "total_offset_expenditure": 1783.5,
+    "total_offsets_tons_co2": 246.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Beam",
+    "url": "https://www.climateneutral.org/brand/beam",
+    "scope_1": 18.0,
+    "scope_2": 439.0,
+    "scope_3": 17646.0,
+    "total_offset_expenditure": 220857.0,
+    "total_offsets_tons_co2": 18103.0,
+    "price_per_ton": 12.20002209578523
+  },
+  {
+    "name": "Beco",
+    "url": "https://www.climateneutral.org/brand/beco-pets",
+    "scope_1": 242.0,
+    "scope_2": 0.0,
+    "scope_3": 2156.0,
+    "total_offset_expenditure": 29495.4,
+    "total_offsets_tons_co2": 2398.0,
+    "price_per_ton": 12.3
+  },
+  {
+    "name": "Become Current PBC",
+    "url": "https://www.climateneutral.org/brand/become-current-pbc",
+    "scope_1": 0.0,
+    "scope_2": 47.0,
+    "scope_3": 48.0,
+    "total_offset_expenditure": 1650.0,
+    "total_offsets_tons_co2": 138.0,
+    "price_per_ton": 11.956521739130435
+  },
+  {
+    "name": "Belong Wines",
+    "url": "https://www.climateneutral.org/brand/belong-wine",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 38.0,
+    "total_offset_expenditure": 530.01,
+    "total_offsets_tons_co2": 39.0,
+    "price_per_ton": 13.59
+  },
+  {
+    "name": "BIO RAW INC.",
+    "url": "https://www.climateneutral.org/brand/bio-raw",
+    "scope_1": 15.0,
+    "scope_2": 44.0,
+    "scope_3": 435.0,
+    "total_offset_expenditure": 5928.0,
+    "total_offsets_tons_co2": 494.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "Biome",
+    "url": "https://www.climateneutral.org/brand/biome",
+    "scope_1": 1.0,
+    "scope_2": 7.0,
+    "scope_3": 28.0,
+    "total_offset_expenditure": 360.0,
+    "total_offsets_tons_co2": 36.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Blackfish Ventures LLC",
+    "url": "https://www.climateneutral.org/brand/blackfish-ventures-llc",
+    "scope_1": 4.0,
+    "scope_2": 37.0,
+    "scope_3": 604.0,
+    "total_offset_expenditure": 4192.5,
+    "total_offsets_tons_co2": 645.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "BLDG Active",
+    "url": "https://www.climateneutral.org/brand/bldg-active",
+    "scope_1": 0.0,
+    "scope_2": 11.0,
+    "scope_3": 1872.0,
+    "total_offset_expenditure": 16974.84,
+    "total_offsets_tons_co2": 1884.0,
+    "price_per_ton": 9.01
+  },
+  {
+    "name": "Bloobloom",
+    "url": "https://www.climateneutral.org/brand/bloobloom",
+    "scope_1": 28.0,
+    "scope_2": 6.0,
+    "scope_3": 126.0,
+    "total_offset_expenditure": 1043.2,
+    "total_offsets_tons_co2": 160.0,
+    "price_per_ton": 6.5200000000000005
+  },
+  {
+    "name": "Blossom Coffee Roasters",
+    "url": "https://www.climateneutral.org/brand/blossom-coffee-roasters",
+    "scope_1": 6.0,
+    "scope_2": 5.0,
+    "scope_3": 156.0,
+    "total_offset_expenditure": 1670.0,
+    "total_offsets_tons_co2": 168.0,
+    "price_per_ton": 9.94047619047619
+  },
+  {
+    "name": "Blue Dot Way, LLC",
+    "url": "https://www.climateneutral.org/brand/blue-dot-way-llc",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 8.0,
+    "total_offset_expenditure": 273.25,
+    "total_offsets_tons_co2": 8.0,
+    "price_per_ton": 34.15625
+  },
+  {
+    "name": "Blue Planet Outdoors",
+    "url": "https://www.climateneutral.org/brand/blue-planet-outdoors",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 24.0,
+    "total_offset_expenditure": 252.0,
+    "total_offsets_tons_co2": 24.0,
+    "price_per_ton": 10.5
+  },
+  {
+    "name": "Blueland",
+    "url": "https://www.climateneutral.org/brand/blueland",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 13203.0,
+    "total_offset_expenditure": 98627.5,
+    "total_offsets_tons_co2": 13205.0,
+    "price_per_ton": 7.468951154865581
+  },
+  {
+    "name": "BlueStar Marketing, LLC",
+    "url": "https://www.climateneutral.org/brand/bluestar-marketing",
+    "scope_1": 0.0,
+    "scope_2": 56.0,
+    "scope_3": 57.0,
+    "total_offset_expenditure": 819.25,
+    "total_offsets_tons_co2": 113.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Bona Furtuna N.A.",
+    "url": "https://www.climateneutral.org/brand/bona-furtuna-na",
+    "scope_1": 0.0,
+    "scope_2": 4.0,
+    "scope_3": 338.0,
+    "total_offset_expenditure": 2830.24,
+    "total_offsets_tons_co2": 342.0,
+    "price_per_ton": 8.275555555555554
+  },
+  {
+    "name": "Bondi Born",
+    "url": "https://www.climateneutral.org/brand/bondi-born",
+    "scope_1": 1.0,
+    "scope_2": 0.0,
+    "scope_3": 603.0,
+    "total_offset_expenditure": 5979.6,
+    "total_offsets_tons_co2": 604.0,
+    "price_per_ton": 9.9
+  },
+  {
+    "name": "Bonterra",
+    "url": "https://www.climateneutral.org/brand/bonterra",
+    "scope_1": 337.0,
+    "scope_2": 101.0,
+    "scope_3": 9767.0,
+    "total_offset_expenditure": 111992.4,
+    "total_offsets_tons_co2": 10205.0,
+    "price_per_ton": 10.974267515923566
+  },
+  {
+    "name": "bookshop.org",
+    "url": "https://www.climateneutral.org/brand/bookshop",
+    "scope_1": 1.0,
+    "scope_2": 5.0,
+    "scope_3": 620.0,
+    "total_offset_expenditure": 5947.0,
+    "total_offsets_tons_co2": 626.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Boonboo",
+    "url": "https://www.climateneutral.org/brand/boonboo",
+    "scope_1": 0.0,
+    "scope_2": 5.0,
+    "scope_3": 5.0,
+    "total_offset_expenditure": 130.5,
+    "total_offsets_tons_co2": 9.0,
+    "price_per_ton": 14.5
+  },
+  {
+    "name": "Booth & Partners",
+    "url": "https://www.climateneutral.org/brand/booth-and-partners",
+    "scope_1": 0.0,
+    "scope_2": 275.0,
+    "scope_3": 525.0,
+    "total_offset_expenditure": 11600.0,
+    "total_offsets_tons_co2": 800.0,
+    "price_per_ton": 14.5
+  },
+  {
+    "name": "Botanica Wines",
+    "url": "https://www.climateneutral.org/brand/botanica-wines",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 198.0,
+    "total_offset_expenditure": 2868.75,
+    "total_offsets_tons_co2": 255.0,
+    "price_per_ton": 11.25
+  },
+  {
+    "name": "Bread Alone Bakery",
+    "url": "https://www.climateneutral.org/brand/bread-alone",
+    "scope_1": 230.0,
+    "scope_2": 76.0,
+    "scope_3": 2115.0,
+    "total_offset_expenditure": 33894.0,
+    "total_offsets_tons_co2": 2421.0,
+    "price_per_ton": 14.0
+  },
+  {
+    "name": "Brook Farm Veterinary Center",
+    "url": "https://www.climateneutral.org/brand/brook-farm-vet",
+    "scope_1": 1.0,
+    "scope_2": 147.0,
+    "scope_3": 152.0,
+    "total_offset_expenditure": 4225.0,
+    "total_offsets_tons_co2": 300.0,
+    "price_per_ton": 14.083333333333334
+  },
+  {
+    "name": "Bronwen Jewelry LLC",
+    "url": "https://www.climateneutral.org/brand/brownwen-jewelry-llc",
+    "scope_1": 5.0,
+    "scope_2": 36.0,
+    "scope_3": 170.0,
+    "total_offset_expenditure": 2507.75,
+    "total_offsets_tons_co2": 210.0,
+    "price_per_ton": 11.941666666666666
+  },
+  {
+    "name": "BRUNA the Label",
+    "url": "https://www.climateneutral.org/brand/bruna-the-label",
+    "scope_1": 0.0,
+    "scope_2": 14.0,
+    "scope_3": 1119.0,
+    "total_offset_expenditure": 12672.0,
+    "total_offsets_tons_co2": 1133.0,
+    "price_per_ton": 11.184466019417476
+  },
+  {
+    "name": "Bud Light NEXT",
+    "url": "https://www.climateneutral.org/brand/bud-light-next",
+    "scope_1": 864.0,
+    "scope_2": 0.0,
+    "scope_3": 17701.0,
+    "total_offset_expenditure": 289629.6,
+    "total_offsets_tons_co2": 18566.0,
+    "price_per_ton": 15.599999999999998
+  },
+  {
+    "name": "By Rosie Jane",
+    "url": "https://www.climateneutral.org/brand/by-rosie-jane",
+    "scope_1": 10.0,
+    "scope_2": 155.0,
+    "scope_3": 220.0,
+    "total_offset_expenditure": 5355.0,
+    "total_offsets_tons_co2": 385.0,
+    "price_per_ton": 13.909090909090908
+  },
+  {
+    "name": "Calgee",
+    "url": "https://www.climateneutral.org/brand/calgee",
+    "scope_1": 2.0,
+    "scope_2": 26.0,
+    "scope_3": 64.0,
+    "total_offset_expenditure": 643.0,
+    "total_offsets_tons_co2": 92.0,
+    "price_per_ton": 6.989130434782608
+  },
+  {
+    "name": "CAMP Eyewear",
+    "url": "https://www.climateneutral.org/brand/camp-eyewear",
+    "scope_1": 5.0,
+    "scope_2": 123.0,
+    "scope_3": 347.0,
+    "total_offset_expenditure": 3800.0,
+    "total_offsets_tons_co2": 475.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "Canary Marketing",
+    "url": "https://www.climateneutral.org/brand/canary-marketing",
+    "scope_1": 66.0,
+    "scope_2": 49.0,
+    "scope_3": 2592.0,
+    "total_offset_expenditure": 21068.27,
+    "total_offsets_tons_co2": 2709.0,
+    "price_per_ton": 7.777139165743817
+  },
+  {
+    "name": "Cape Clasp",
+    "url": "https://www.climateneutral.org/brand/cape-clasp",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 229.0,
+    "total_offset_expenditure": 1848.0,
+    "total_offsets_tons_co2": 231.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "Cariloop",
+    "url": "https://www.climateneutral.org/brand/cariloop",
+    "scope_1": 4.0,
+    "scope_2": 362.0,
+    "scope_3": 343.0,
+    "total_offset_expenditure": 11005.0,
+    "total_offsets_tons_co2": 710.0,
+    "price_per_ton": 15.5
+  },
+  {
+    "name": "Ceremonia",
+    "url": "https://www.climateneutral.org/brand/ceremonia",
+    "scope_1": 0.0,
+    "scope_2": 12.0,
+    "scope_3": 1875.0,
+    "total_offset_expenditure": 11322.0,
+    "total_offsets_tons_co2": 1887.0,
+    "price_per_ton": 6.0
+  },
+  {
+    "name": "ChicoEco, Inc",
+    "url": "https://www.climateneutral.org/brand/chicoeco-inc",
+    "scope_1": 10.0,
+    "scope_2": 11.0,
+    "scope_3": 671.0,
+    "total_offset_expenditure": 2073.0,
+    "total_offsets_tons_co2": 691.0,
+    "price_per_ton": 3.0
+  },
+  {
+    "name": "CHNGE",
+    "url": "https://www.climateneutral.org/brand/chnge",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 1252.0,
+    "total_offset_expenditure": 9518.0,
+    "total_offsets_tons_co2": 1253.0,
+    "price_per_ton": 7.596169193934557
+  },
+  {
+    "name": "Chris Burkard Studio",
+    "url": "https://www.climateneutral.org/brand/chris-burkard-studio",
+    "scope_1": 1.0,
+    "scope_2": 29.0,
+    "scope_3": 58.0,
+    "total_offset_expenditure": 872.58,
+    "total_offsets_tons_co2": 88.0,
+    "price_per_ton": 9.915681818181818
+  },
+  {
+    "name": "CLIF Kid",
+    "url": "https://www.climateneutral.org/brand/clif-kid",
+    "scope_1": 2089.0,
+    "scope_2": 0.0,
+    "scope_3": 25470.0,
+    "total_offset_expenditure": 317590.0,
+    "total_offsets_tons_co2": 27559.0,
+    "price_per_ton": 11.524003048006096
+  },
+  {
+    "name": "Climate Neutral",
+    "url": "https://www.climateneutral.org/brand/climate-neutral",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 42.0,
+    "total_offset_expenditure": 350.9,
+    "total_offsets_tons_co2": 43.0,
+    "price_per_ton": 8.160465116279068
+  },
+  {
+    "name": "Clove & Twine",
+    "url": "https://www.climateneutral.org/brand/clove-and-twine",
+    "scope_1": 13.0,
+    "scope_2": 18.0,
+    "scope_3": 321.0,
+    "total_offset_expenditure": 10101.92,
+    "total_offsets_tons_co2": 352.0,
+    "price_per_ton": 28.698636363636364
+  },
+  {
+    "name": "Collective Logistics",
+    "url": "https://www.climateneutral.org/brand/collective-logistics",
+    "scope_1": 1.0,
+    "scope_2": 0.0,
+    "scope_3": 18.0,
+    "total_offset_expenditure": 144.0,
+    "total_offsets_tons_co2": 18.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "Collins Hume",
+    "url": "https://www.climateneutral.org/brand/collins-hume",
+    "scope_1": 3.0,
+    "scope_2": 0.0,
+    "scope_3": 58.0,
+    "total_offset_expenditure": 476.25,
+    "total_offsets_tons_co2": 61.0,
+    "price_per_ton": 7.807377049180328
+  },
+  {
+    "name": "Common Heir",
+    "url": "https://www.climateneutral.org/brand/common-heir",
+    "scope_1": 24.0,
+    "scope_2": 79.0,
+    "scope_3": 680.0,
+    "total_offset_expenditure": 5676.75,
+    "total_offsets_tons_co2": 783.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Consolidare Wealth Management Ltd",
+    "url": "https://www.climateneutral.org/brand/consolidare-wealth-management",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 3.0,
+    "total_offset_expenditure": 40.5,
+    "total_offsets_tons_co2": 3.0,
+    "price_per_ton": 13.5
+  },
+  {
+    "name": "Convert",
+    "url": "https://www.climateneutral.org/brand/convert",
+    "scope_1": 3.0,
+    "scope_2": 37.0,
+    "scope_3": 142.0,
+    "total_offset_expenditure": 1086.0,
+    "total_offsets_tons_co2": 181.0,
+    "price_per_ton": 6.0
+  },
+  {
+    "name": "Coracao Confections",
+    "url": "https://www.climateneutral.org/brand/coracao-confections",
+    "scope_1": 8.0,
+    "scope_2": 170.0,
+    "scope_3": 535.0,
+    "total_offset_expenditure": 9653.7,
+    "total_offsets_tons_co2": 998.0,
+    "price_per_ton": 9.67304609218437
+  },
+  {
+    "name": "Cotopaxi",
+    "url": "https://www.climateneutral.org/brand/cotopaxi",
+    "scope_1": 0.0,
+    "scope_2": 328.0,
+    "scope_3": 13531.0,
+    "total_offset_expenditure": 124862.0,
+    "total_offsets_tons_co2": 13859.0,
+    "price_per_ton": 9.009452341438775
+  },
+  {
+    "name": "COUNSEL",
+    "url": "https://www.climateneutral.org/brand/counsel",
+    "scope_1": 1.0,
+    "scope_2": 34.0,
+    "scope_3": 68.0,
+    "total_offset_expenditure": 10852.3,
+    "total_offsets_tons_co2": 546.0,
+    "price_per_ton": 19.876007326007326
+  },
+  {
+    "name": "Creative Solutions",
+    "url": "https://www.climateneutral.org/brand/creative-solutions",
+    "scope_1": 32.0,
+    "scope_2": 38.0,
+    "scope_3": 1611.0,
+    "total_offset_expenditure": 3952.7,
+    "total_offsets_tons_co2": 1682.0,
+    "price_per_ton": 2.35
+  },
+  {
+    "name": "DeeBee's Organics",
+    "url": "https://www.climateneutral.org/brand/deebees-organics",
+    "scope_1": 1.0,
+    "scope_2": 129.0,
+    "scope_3": 3863.0,
+    "total_offset_expenditure": 54890.0,
+    "total_offsets_tons_co2": 4000.0,
+    "price_per_ton": 13.7225
+  },
+  {
+    "name": "Della Terra",
+    "url": "https://www.climateneutral.org/brand/della-terra",
+    "scope_1": 4.0,
+    "scope_2": 0.0,
+    "scope_3": 86.0,
+    "total_offset_expenditure": 889.5,
+    "total_offsets_tons_co2": 90.0,
+    "price_per_ton": 9.883333333333333
+  },
+  {
+    "name": "Denomination",
+    "url": "https://www.climateneutral.org/brand/denomination",
+    "scope_1": 1.0,
+    "scope_2": 77.0,
+    "scope_3": 151.0,
+    "total_offset_expenditure": 2519.0,
+    "total_offsets_tons_co2": 229.0,
+    "price_per_ton": 11.0
+  },
+  {
+    "name": "DEPT\u00c2\u00ae",
+    "url": "https://www.climateneutral.org/brand/dept",
+    "scope_1": 225.0,
+    "scope_2": 844.0,
+    "scope_3": 9761.0,
+    "total_offset_expenditure": 177924.05,
+    "total_offsets_tons_co2": 11113.0,
+    "price_per_ton": 16.010442724736794
+  },
+  {
+    "name": "Dermatone Labs, LLC",
+    "url": "https://www.climateneutral.org/brand/dermatone-labs-llc",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 258.0,
+    "total_offset_expenditure": 2947.7,
+    "total_offsets_tons_co2": 260.0,
+    "price_per_ton": 11.337307692307691
+  },
+  {
+    "name": "Dewerstone",
+    "url": "https://www.climateneutral.org/brand/dewerstone",
+    "scope_1": 2.0,
+    "scope_2": 1.0,
+    "scope_3": 138.0,
+    "total_offset_expenditure": 1128.0,
+    "total_offsets_tons_co2": 141.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "Dimagi",
+    "url": "https://www.climateneutral.org/brand/dimagi",
+    "scope_1": 10.0,
+    "scope_2": 142.0,
+    "scope_3": 785.0,
+    "total_offset_expenditure": 7529.6,
+    "total_offsets_tons_co2": 938.0,
+    "price_per_ton": 8.027292110874201
+  },
+  {
+    "name": "DoThings",
+    "url": "https://www.climateneutral.org/brand/dothings",
+    "scope_1": 1.0,
+    "scope_2": 34.0,
+    "scope_3": 67.0,
+    "total_offset_expenditure": 1249.5,
+    "total_offsets_tons_co2": 102.0,
+    "price_per_ton": 12.25
+  },
+  {
+    "name": "Earth Harbor Naturals",
+    "url": "https://www.climateneutral.org/brand/earth-harbor-naturals",
+    "scope_1": 1.0,
+    "scope_2": 18.0,
+    "scope_3": 37.0,
+    "total_offset_expenditure": 539.5,
+    "total_offsets_tons_co2": 56.0,
+    "price_per_ton": 9.633928571428571
+  },
+  {
+    "name": "EarthHero",
+    "url": "https://www.climateneutral.org/brand/earthhero",
+    "scope_1": 29.0,
+    "scope_2": 11.0,
+    "scope_3": 282.0,
+    "total_offset_expenditure": 4386.5,
+    "total_offsets_tons_co2": 322.0,
+    "price_per_ton": 13.622670807453416
+  },
+  {
+    "name": "EarthKind, LLC",
+    "url": "https://www.climateneutral.org/brand/earthkind",
+    "scope_1": 26.0,
+    "scope_2": 156.0,
+    "scope_3": 2886.0,
+    "total_offset_expenditure": 29146.0,
+    "total_offsets_tons_co2": 3068.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Elizabeth Suzann, LLC",
+    "url": "https://www.climateneutral.org/brand/elizabeth-suzann",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 80.0,
+    "total_offset_expenditure": 896.0,
+    "total_offsets_tons_co2": 83.0,
+    "price_per_ton": 10.795180722891565
+  },
+  {
+    "name": "Elm Organics Norway",
+    "url": "https://www.climateneutral.org/brand/elm-organics-norway",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 189.0,
+    "total_offset_expenditure": 1997.73,
+    "total_offsets_tons_co2": 189.0,
+    "price_per_ton": 10.57
+  },
+  {
+    "name": "Emikeni",
+    "url": "https://www.climateneutral.org/brand/emikeni",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 355.0,
+    "total_offset_expenditure": 3372.5,
+    "total_offsets_tons_co2": 355.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Engedi Salon",
+    "url": "https://www.climateneutral.org/brand/engedi-salon",
+    "scope_1": 3.0,
+    "scope_2": 173.0,
+    "scope_3": 153.0,
+    "total_offset_expenditure": 2066.12,
+    "total_offsets_tons_co2": 329.0,
+    "price_per_ton": 6.279999999999999
+  },
+  {
+    "name": "EthicDrinks",
+    "url": "https://www.climateneutral.org/brand/ethicdrinks",
+    "scope_1": 27.0,
+    "scope_2": 6.0,
+    "scope_3": 466.0,
+    "total_offset_expenditure": 5650.0,
+    "total_offsets_tons_co2": 500.0,
+    "price_per_ton": 11.3
+  },
+  {
+    "name": "ettitude",
+    "url": "https://www.climateneutral.org/brand/ettitude",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 1922.0,
+    "total_offset_expenditure": 42284.0,
+    "total_offsets_tons_co2": 1922.0,
+    "price_per_ton": 22.0
+  },
+  {
+    "name": "Eva-NYC",
+    "url": "https://www.climateneutral.org/brand/eva-nyc",
+    "scope_1": 106.0,
+    "scope_2": 37.0,
+    "scope_3": 5365.0,
+    "total_offset_expenditure": 54723.0,
+    "total_offsets_tons_co2": 6188.0,
+    "price_per_ton": 8.843406593406593
+  },
+  {
+    "name": "Everoot Consulting",
+    "url": "https://www.climateneutral.org/brand/everoot-consulting",
+    "scope_1": 0.0,
+    "scope_2": 3.0,
+    "scope_3": 6.0,
+    "total_offset_expenditure": 156.75,
+    "total_offsets_tons_co2": 11.0,
+    "price_per_ton": 14.25
+  },
+  {
+    "name": "Everywhere Apparel, Inc",
+    "url": "https://www.climateneutral.org/brand/everywhere-apparel",
+    "scope_1": 1.0,
+    "scope_2": 7.0,
+    "scope_3": 272.0,
+    "total_offset_expenditure": 2288.44,
+    "total_offsets_tons_co2": 287.0,
+    "price_per_ton": 7.973658536585366
+  },
+  {
+    "name": "Evolution Service Corp",
+    "url": "https://www.climateneutral.org/brand/evolution-service-corp",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 43.0,
+    "total_offset_expenditure": 516.0,
+    "total_offsets_tons_co2": 43.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "ExquisiteCrystals.com LLC",
+    "url": "https://www.climateneutral.org/brand/exquisitecrystals-com",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 165.0,
+    "total_offset_expenditure": 2351.25,
+    "total_offsets_tons_co2": 165.0,
+    "price_per_ton": 14.25
+  },
+  {
+    "name": "F Bass Inc.",
+    "url": "https://www.climateneutral.org/brand/f-bass-inc",
+    "scope_1": 18.0,
+    "scope_2": 2.0,
+    "scope_3": 124.0,
+    "total_offset_expenditure": 1260.0,
+    "total_offsets_tons_co2": 144.0,
+    "price_per_ton": 8.75
+  },
+  {
+    "name": "Falcon Engineering",
+    "url": "https://www.climateneutral.org/brand/falcon-engineering",
+    "scope_1": 9.0,
+    "scope_2": 3.0,
+    "scope_3": 141.0,
+    "total_offset_expenditure": 4620.0,
+    "total_offsets_tons_co2": 154.0,
+    "price_per_ton": 30.0
+  },
+  {
+    "name": "Fireclay Tile",
+    "url": "https://www.climateneutral.org/brand/fireclay-tile",
+    "scope_1": 3326.0,
+    "scope_2": 0.0,
+    "scope_3": 7558.0,
+    "total_offset_expenditure": 60411.75,
+    "total_offsets_tons_co2": 10885.0,
+    "price_per_ton": 5.55
+  },
+  {
+    "name": "Firma",
+    "url": "https://www.climateneutral.org/brand/firma",
+    "scope_1": 1.0,
+    "scope_2": 13.0,
+    "scope_3": 142.0,
+    "total_offset_expenditure": 1659.13,
+    "total_offsets_tons_co2": 155.0,
+    "price_per_ton": 10.704064516129034
+  },
+  {
+    "name": "Fjorden",
+    "url": "https://www.climateneutral.org/brand/fjorden",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 566.0,
+    "total_offset_expenditure": 5660.0,
+    "total_offsets_tons_co2": 566.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Flaik",
+    "url": "https://www.climateneutral.org/brand/flaik",
+    "scope_1": 2.0,
+    "scope_2": 28.0,
+    "scope_3": 211.0,
+    "total_offset_expenditure": 10850.0,
+    "total_offsets_tons_co2": 700.0,
+    "price_per_ton": 15.5
+  },
+  {
+    "name": "Flickr",
+    "url": "https://www.climateneutral.org/brand/flickr",
+    "scope_1": 4.0,
+    "scope_2": 76.0,
+    "scope_3": 82.0,
+    "total_offset_expenditure": 3199.69,
+    "total_offsets_tons_co2": 163.0,
+    "price_per_ton": 19.63
+  },
+  {
+    "name": "Flint",
+    "url": "https://www.climateneutral.org/brand/flint",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 20.0,
+    "total_offset_expenditure": 190.3,
+    "total_offsets_tons_co2": 20.0,
+    "price_per_ton": 9.515
+  },
+  {
+    "name": "Flooret",
+    "url": "https://www.climateneutral.org/brand/flooret",
+    "scope_1": 0.0,
+    "scope_2": 81.0,
+    "scope_3": 9841.0,
+    "total_offset_expenditure": 107924.0,
+    "total_offsets_tons_co2": 9921.0,
+    "price_per_ton": 10.878338877129321
+  },
+  {
+    "name": "Fluf Textile Goods Inc.",
+    "url": "https://www.climateneutral.org/brand/fluf",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 364.0,
+    "total_offset_expenditure": 3206.25,
+    "total_offsets_tons_co2": 365.0,
+    "price_per_ton": 8.784246575342467
+  },
+  {
+    "name": "Foehn Clothing",
+    "url": "https://www.climateneutral.org/brand/foehn-clothing",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 356.0,
+    "total_offset_expenditure": 4272.0,
+    "total_offsets_tons_co2": 356.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "Form",
+    "url": "https://www.climateneutral.org/brand/form",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 38.0,
+    "total_offset_expenditure": 266.0,
+    "total_offsets_tons_co2": 38.0,
+    "price_per_ton": 7.0
+  },
+  {
+    "name": "Forsake",
+    "url": "https://www.climateneutral.org/brand/forsake",
+    "scope_1": 11.0,
+    "scope_2": 13.0,
+    "scope_3": 2645.0,
+    "total_offset_expenditure": 45738.0,
+    "total_offsets_tons_co2": 2670.0,
+    "price_per_ton": 17.130337078651685
+  },
+  {
+    "name": "FUSION Performance Group",
+    "url": "https://www.climateneutral.org/brand/fusion-performance-group",
+    "scope_1": 1.0,
+    "scope_2": 36.0,
+    "scope_3": 72.0,
+    "total_offset_expenditure": 825.0,
+    "total_offsets_tons_co2": 110.0,
+    "price_per_ton": 7.5
+  },
+  {
+    "name": "GEARTRADE",
+    "url": "https://www.climateneutral.org/brand/geartrade",
+    "scope_1": 12.0,
+    "scope_2": 18.0,
+    "scope_3": 73.0,
+    "total_offset_expenditure": 1248.0,
+    "total_offsets_tons_co2": 104.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "Gifts for Good",
+    "url": "https://www.climateneutral.org/brand/gifts-for-good",
+    "scope_1": 11.0,
+    "scope_2": 0.0,
+    "scope_3": 71.0,
+    "total_offset_expenditure": 1178.75,
+    "total_offsets_tons_co2": 82.0,
+    "price_per_ton": 14.375
+  },
+  {
+    "name": "GLIDE",
+    "url": "https://www.climateneutral.org/brand/glide",
+    "scope_1": 2.0,
+    "scope_2": 39.0,
+    "scope_3": 77.0,
+    "total_offset_expenditure": 1541.25,
+    "total_offsets_tons_co2": 117.0,
+    "price_per_ton": 13.173076923076923
+  },
+  {
+    "name": "Glow Recipe",
+    "url": "https://www.climateneutral.org/brand/glow-recipe",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 49923.0,
+    "total_offset_expenditure": 302988.44,
+    "total_offsets_tons_co2": 49923.0,
+    "price_per_ton": 6.069115237465697
+  },
+  {
+    "name": "Good Clean Love",
+    "url": "https://www.climateneutral.org/brand/good-clean-love",
+    "scope_1": 4.0,
+    "scope_2": 40.0,
+    "scope_3": 4633.0,
+    "total_offset_expenditure": 58450.0,
+    "total_offsets_tons_co2": 4676.0,
+    "price_per_ton": 12.5
+  },
+  {
+    "name": "Good Good Good",
+    "url": "https://www.climateneutral.org/brand/good-good-good",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 34.0,
+    "total_offset_expenditure": 340.0,
+    "total_offsets_tons_co2": 34.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Goodee",
+    "url": "https://www.climateneutral.org/brand/goodee",
+    "scope_1": 4.0,
+    "scope_2": 0.0,
+    "scope_3": 27.0,
+    "total_offset_expenditure": 441.75,
+    "total_offsets_tons_co2": 31.0,
+    "price_per_ton": 14.25
+  },
+  {
+    "name": "goodr",
+    "url": "https://www.climateneutral.org/brand/goodr",
+    "scope_1": 3.0,
+    "scope_2": 9.0,
+    "scope_3": 18511.0,
+    "total_offset_expenditure": 246852.0,
+    "total_offsets_tons_co2": 24024.0,
+    "price_per_ton": 10.275224775224775
+  },
+  {
+    "name": "Gorilla Computing GmbH",
+    "url": "https://www.climateneutral.org/brand/gorilla-computing",
+    "scope_1": 2.0,
+    "scope_2": 2.0,
+    "scope_3": 29.0,
+    "total_offset_expenditure": 955.0,
+    "total_offsets_tons_co2": 80.0,
+    "price_per_ton": 11.9375
+  },
+  {
+    "name": "Grain",
+    "url": "https://www.climateneutral.org/brand/grain",
+    "scope_1": 5.0,
+    "scope_2": 5.0,
+    "scope_3": 99.0,
+    "total_offset_expenditure": 808.78,
+    "total_offsets_tons_co2": 109.0,
+    "price_per_ton": 7.42
+  },
+  {
+    "name": "Graphene X",
+    "url": "https://www.climateneutral.org/brand/graphene-x",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 227.0,
+    "total_offset_expenditure": 2079.32,
+    "total_offsets_tons_co2": 227.0,
+    "price_per_ton": 9.16
+  },
+  {
+    "name": "GrowthJet",
+    "url": "https://www.climateneutral.org/brand/growthjet",
+    "scope_1": 3.0,
+    "scope_2": 69.0,
+    "scope_3": 137.0,
+    "total_offset_expenditure": 1515.25,
+    "total_offsets_tons_co2": 209.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Happy Earth LLC",
+    "url": "https://www.climateneutral.org/brand/happy-earth",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 400.0,
+    "total_offset_expenditure": 2985.78,
+    "total_offsets_tons_co2": 402.0,
+    "price_per_ton": 7.427313432835821
+  },
+  {
+    "name": "Heady",
+    "url": "https://www.climateneutral.org/brand/heady",
+    "scope_1": 0.0,
+    "scope_2": 44.0,
+    "scope_3": 73.0,
+    "total_offset_expenditure": 2392.0,
+    "total_offsets_tons_co2": 117.0,
+    "price_per_ton": 20.444444444444443
+  },
+  {
+    "name": "HigherRing, Inc.",
+    "url": "https://www.climateneutral.org/brand/higherring",
+    "scope_1": 2.0,
+    "scope_2": 52.0,
+    "scope_3": 103.0,
+    "total_offset_expenditure": 1570.0,
+    "total_offsets_tons_co2": 158.0,
+    "price_per_ton": 9.936708860759493
+  },
+  {
+    "name": "Hikers Brew Coffee",
+    "url": "https://www.climateneutral.org/brand/hikers-brew-coffee",
+    "scope_1": 0.0,
+    "scope_2": 6.0,
+    "scope_3": 6.0,
+    "total_offset_expenditure": 252.0,
+    "total_offsets_tons_co2": 12.0,
+    "price_per_ton": 21.0
+  },
+  {
+    "name": "Hitch",
+    "url": "https://www.climateneutral.org/brand/hitch",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 294.0,
+    "total_offset_expenditure": 1917.5,
+    "total_offsets_tons_co2": 295.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "Holden Rings",
+    "url": "https://www.climateneutral.org/brand/holden",
+    "scope_1": 0.0,
+    "scope_2": 26.0,
+    "scope_3": 1745.0,
+    "total_offset_expenditure": 10632.0,
+    "total_offsets_tons_co2": 1772.0,
+    "price_per_ton": 6.0
+  },
+  {
+    "name": "Hune",
+    "url": "https://www.climateneutral.org/brand/hune",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 82.0,
+    "total_offset_expenditure": 573.5,
+    "total_offsets_tons_co2": 82.0,
+    "price_per_ton": 6.9939024390243905
+  },
+  {
+    "name": "Ibex",
+    "url": "https://www.climateneutral.org/brand/ibex",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 709.0,
+    "total_offset_expenditure": 3545.0,
+    "total_offsets_tons_co2": 709.0,
+    "price_per_ton": 5.0
+  },
+  {
+    "name": "ICEBUG",
+    "url": "https://www.climateneutral.org/brand/icebug",
+    "scope_1": 3.0,
+    "scope_2": 0.0,
+    "scope_3": 5241.0,
+    "total_offset_expenditure": 33920.0,
+    "total_offsets_tons_co2": 5300.0,
+    "price_per_ton": 6.4
+  },
+  {
+    "name": "IM Digital",
+    "url": "https://www.climateneutral.org/brand/im-digital",
+    "scope_1": 6.0,
+    "scope_2": 146.0,
+    "scope_3": 289.0,
+    "total_offset_expenditure": 4565.0,
+    "total_offsets_tons_co2": 440.0,
+    "price_per_ton": 10.375
+  },
+  {
+    "name": "INC Architecture & Design",
+    "url": "https://www.climateneutral.org/brand/inc-architecture-design",
+    "scope_1": 23.0,
+    "scope_2": 11.0,
+    "scope_3": 181.0,
+    "total_offset_expenditure": 3770.0,
+    "total_offsets_tons_co2": 216.0,
+    "price_per_ton": 17.453703703703702
+  },
+  {
+    "name": "Infinum",
+    "url": "https://www.climateneutral.org/brand/infinum",
+    "scope_1": 26.0,
+    "scope_2": 99.0,
+    "scope_3": 738.0,
+    "total_offset_expenditure": 6922.0,
+    "total_offsets_tons_co2": 863.0,
+    "price_per_ton": 8.020857473928158
+  },
+  {
+    "name": "Innersense Organic Beauty",
+    "url": "https://www.climateneutral.org/brand/innersense-beauty",
+    "scope_1": 9.0,
+    "scope_2": 8.0,
+    "scope_3": 2869.0,
+    "total_offset_expenditure": 28182.5,
+    "total_offsets_tons_co2": 2886.0,
+    "price_per_ton": 9.765246015246015
+  },
+  {
+    "name": "iota",
+    "url": "https://www.climateneutral.org/brand/iota",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 98.0,
+    "total_offset_expenditure": 750.72,
+    "total_offsets_tons_co2": 99.0,
+    "price_per_ton": 7.583030303030303
+  },
+  {
+    "name": "JADE Swim",
+    "url": "https://www.climateneutral.org/brand/jade-swim",
+    "scope_1": 0.0,
+    "scope_2": 85.0,
+    "scope_3": 87.0,
+    "total_offset_expenditure": 1634.0,
+    "total_offsets_tons_co2": 172.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Jiant",
+    "url": "https://www.climateneutral.org/brand/jiant",
+    "scope_1": 2.0,
+    "scope_2": 25.0,
+    "scope_3": 2641.0,
+    "total_offset_expenditure": 13206.6,
+    "total_offsets_tons_co2": 2668.0,
+    "price_per_ton": 4.95
+  },
+  {
+    "name": "Jikoni",
+    "url": "https://www.climateneutral.org/brand/jikoni",
+    "scope_1": 2.0,
+    "scope_2": 0.0,
+    "scope_3": 57.0,
+    "total_offset_expenditure": 1056.7,
+    "total_offsets_tons_co2": 60.0,
+    "price_per_ton": 17.611666666666668
+  },
+  {
+    "name": "Joobwear",
+    "url": "https://www.climateneutral.org/brand/joobwear",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 6.0,
+    "total_offset_expenditure": 165.83,
+    "total_offsets_tons_co2": 7.0,
+    "price_per_ton": 23.69
+  },
+  {
+    "name": "JuneShine",
+    "url": "https://www.climateneutral.org/brand/juneshine",
+    "scope_1": 7.0,
+    "scope_2": 3.0,
+    "scope_3": 8398.0,
+    "total_offset_expenditure": 96300.0,
+    "total_offsets_tons_co2": 12500.0,
+    "price_per_ton": 7.704
+  },
+  {
+    "name": "Kala & Mata",
+    "url": "https://www.climateneutral.org/brand/kala-mata",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 151.0,
+    "total_offset_expenditure": 5285.0,
+    "total_offsets_tons_co2": 151.0,
+    "price_per_ton": 35.0
+  },
+  {
+    "name": "Kammok",
+    "url": "https://www.climateneutral.org/brand/kammok",
+    "scope_1": 44.0,
+    "scope_2": 1027.0,
+    "scope_3": 1996.0,
+    "total_offset_expenditure": 21560.0,
+    "total_offsets_tons_co2": 3080.0,
+    "price_per_ton": 7.0
+  },
+  {
+    "name": "Kate McLeod",
+    "url": "https://www.climateneutral.org/brand/kate-mcleod",
+    "scope_1": 1.0,
+    "scope_2": 41.0,
+    "scope_3": 1078.0,
+    "total_offset_expenditure": 10908.25,
+    "total_offsets_tons_co2": 1119.0,
+    "price_per_ton": 9.748212689901697
+  },
+  {
+    "name": "KBS Pets",
+    "url": "https://www.climateneutral.org/brand/kbs-pets",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 493.0,
+    "total_offset_expenditure": 3871.75,
+    "total_offsets_tons_co2": 493.0,
+    "price_per_ton": 7.853448275862069
+  },
+  {
+    "name": "Keeper Denim",
+    "url": "https://www.climateneutral.org/brand/keeper-denim",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 2.0,
+    "total_offset_expenditure": 27.18,
+    "total_offsets_tons_co2": 2.0,
+    "price_per_ton": 13.59
+  },
+  {
+    "name": "Kenna Group",
+    "url": "https://www.climateneutral.org/brand/kenna-group",
+    "scope_1": 0.0,
+    "scope_2": 12.0,
+    "scope_3": 602.0,
+    "total_offset_expenditure": 4298.0,
+    "total_offsets_tons_co2": 614.0,
+    "price_per_ton": 7.0
+  },
+  {
+    "name": "KENT",
+    "url": "https://www.climateneutral.org/brand/kent",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 27.0,
+    "total_offset_expenditure": 400.5,
+    "total_offsets_tons_co2": 27.0,
+    "price_per_ton": 14.833333333333334
+  },
+  {
+    "name": "Kickstarter",
+    "url": "https://www.climateneutral.org/brand/kickstarter",
+    "scope_1": 63.0,
+    "scope_2": 0.0,
+    "scope_3": 496.0,
+    "total_offset_expenditure": 10664.35,
+    "total_offsets_tons_co2": 559.0,
+    "price_per_ton": 19.077549194991057
+  },
+  {
+    "name": "Kindhumans",
+    "url": "https://www.climateneutral.org/brand/kindhumans",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 8.0,
+    "total_offset_expenditure": 116.0,
+    "total_offsets_tons_co2": 8.0,
+    "price_per_ton": 14.5
+  },
+  {
+    "name": "Kindship Group",
+    "url": "https://www.climateneutral.org/brand/kindship-group",
+    "scope_1": 0.0,
+    "scope_2": 7.0,
+    "scope_3": 11.0,
+    "total_offset_expenditure": 222.82,
+    "total_offsets_tons_co2": 18.0,
+    "price_per_ton": 12.378888888888888
+  },
+  {
+    "name": "Klean Kanteen",
+    "url": "https://www.climateneutral.org/brand/klean-kanteen",
+    "scope_1": 21.0,
+    "scope_2": 0.0,
+    "scope_3": 6283.0,
+    "total_offset_expenditure": 49627.0,
+    "total_offsets_tons_co2": 6304.0,
+    "price_per_ton": 7.872303299492386
+  },
+  {
+    "name": "Knowmium",
+    "url": "https://www.climateneutral.org/brand/knowmium",
+    "scope_1": 1.0,
+    "scope_2": 24.0,
+    "scope_3": 94.0,
+    "total_offset_expenditure": 952.0,
+    "total_offsets_tons_co2": 119.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "Koos Service Design",
+    "url": "https://www.climateneutral.org/brand/koos-service-design",
+    "scope_1": 33.0,
+    "scope_2": 18.0,
+    "scope_3": 305.0,
+    "total_offset_expenditure": 4984.0,
+    "total_offsets_tons_co2": 356.0,
+    "price_per_ton": 14.0
+  },
+  {
+    "name": "KORA Organics",
+    "url": "https://www.climateneutral.org/brand/kora-organics",
+    "scope_1": 1.0,
+    "scope_2": 30.0,
+    "scope_3": 2956.0,
+    "total_offset_expenditure": 41923.0,
+    "total_offsets_tons_co2": 2986.0,
+    "price_per_ton": 14.03985264567984
+  },
+  {
+    "name": "KORARU",
+    "url": "https://www.climateneutral.org/brand/koraru",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 179.0,
+    "total_offset_expenditure": 1638.0,
+    "total_offsets_tons_co2": 180.0,
+    "price_per_ton": 9.1
+  },
+  {
+    "name": "KraveBeauty",
+    "url": "https://www.climateneutral.org/brand/kravebeauty",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 767.0,
+    "total_offset_expenditure": 7670.0,
+    "total_offsets_tons_co2": 767.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "La Honda Winery",
+    "url": "https://www.climateneutral.org/brand/la-honda-winery",
+    "scope_1": 2.0,
+    "scope_2": 28.0,
+    "scope_3": 131.0,
+    "total_offset_expenditure": 1288.0,
+    "total_offsets_tons_co2": 161.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "La Sportiva N.A.",
+    "url": "https://www.climateneutral.org/brand/la-sportiva-na",
+    "scope_1": 225.0,
+    "scope_2": 58.0,
+    "scope_3": 20135.0,
+    "total_offset_expenditure": 122880.2,
+    "total_offsets_tons_co2": 20418.0,
+    "price_per_ton": 6.0182290136154375
+  },
+  {
+    "name": "Laid Back Snacks Inc.",
+    "url": "https://www.climateneutral.org/brand/laid-back-snacks-inc",
+    "scope_1": 0.0,
+    "scope_2": 4.0,
+    "scope_3": 554.0,
+    "total_offset_expenditure": 5301.0,
+    "total_offsets_tons_co2": 558.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Laumiere Gourmet Fruits",
+    "url": "https://www.climateneutral.org/brand/laumiere-gourmet-fruits",
+    "scope_1": 3.0,
+    "scope_2": 8.0,
+    "scope_3": 77.0,
+    "total_offset_expenditure": 1188.0,
+    "total_offsets_tons_co2": 88.0,
+    "price_per_ton": 13.5
+  },
+  {
+    "name": "Leaf Shave",
+    "url": "https://www.climateneutral.org/brand/leaf-shave",
+    "scope_1": 1.0,
+    "scope_2": 1.0,
+    "scope_3": 382.0,
+    "total_offset_expenditure": 3840.0,
+    "total_offsets_tons_co2": 384.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Le.mu",
+    "url": "https://www.climateneutral.org/brand/lemu",
+    "scope_1": 16.0,
+    "scope_2": 4.0,
+    "scope_3": 307.0,
+    "total_offset_expenditure": 2132.0,
+    "total_offsets_tons_co2": 328.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "LifeStraw",
+    "url": "https://www.climateneutral.org/brand/lifestraw",
+    "scope_1": 49.0,
+    "scope_2": 46.0,
+    "scope_3": 5131.0,
+    "total_offset_expenditure": 88842.0,
+    "total_offsets_tons_co2": 5226.0,
+    "price_per_ton": 17.0
+  },
+  {
+    "name": "Live Story Inc",
+    "url": "https://www.climateneutral.org/brand/live-story-inc",
+    "scope_1": 4.0,
+    "scope_2": 5.0,
+    "scope_3": 55.0,
+    "total_offset_expenditure": 1575.0,
+    "total_offsets_tons_co2": 63.0,
+    "price_per_ton": 25.0
+  },
+  {
+    "name": "Lomond Coffee Ltd",
+    "url": "https://www.climateneutral.org/brand/lomond-coffee",
+    "scope_1": 1.0,
+    "scope_2": 1.0,
+    "scope_3": 9.0,
+    "total_offset_expenditure": 104.5,
+    "total_offsets_tons_co2": 11.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "loqa",
+    "url": "https://www.climateneutral.org/brand/loqa",
+    "scope_1": 1.0,
+    "scope_2": 0.0,
+    "scope_3": 16.0,
+    "total_offset_expenditure": 126.0,
+    "total_offsets_tons_co2": 18.0,
+    "price_per_ton": 7.0
+  },
+  {
+    "name": "Lubanzi Wines",
+    "url": "https://www.climateneutral.org/brand/lubanzi-wines",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 526.0,
+    "total_offset_expenditure": 7509.75,
+    "total_offsets_tons_co2": 527.0,
+    "price_per_ton": 14.25
+  },
+  {
+    "name": "Made Trade",
+    "url": "https://www.climateneutral.org/brand/made-trade",
+    "scope_1": 12.0,
+    "scope_2": 55.0,
+    "scope_3": 229.0,
+    "total_offset_expenditure": 2138.75,
+    "total_offsets_tons_co2": 295.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Maison Louis Marie",
+    "url": "https://www.climateneutral.org/brand/maison-louis-marie",
+    "scope_1": 5.0,
+    "scope_2": 8.0,
+    "scope_3": 1056.0,
+    "total_offset_expenditure": 7750.25,
+    "total_offsets_tons_co2": 1069.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Mananalu",
+    "url": "https://www.climateneutral.org/brand/mananalu",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 1012.0,
+    "total_offset_expenditure": 10515.0,
+    "total_offsets_tons_co2": 1014.0,
+    "price_per_ton": 10.3698224852071
+  },
+  {
+    "name": "Mantra",
+    "url": "https://www.climateneutral.org/brand/mantra",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 2149.0,
+    "total_offset_expenditure": 18037.5,
+    "total_offsets_tons_co2": 2150.0,
+    "price_per_ton": 8.38953488372093
+  },
+  {
+    "name": "Marine Agency Corp",
+    "url": "https://www.climateneutral.org/brand/marine-agency-corp",
+    "scope_1": 3.0,
+    "scope_2": 0.0,
+    "scope_3": 141.0,
+    "total_offset_expenditure": 2825.28,
+    "total_offsets_tons_co2": 144.0,
+    "price_per_ton": 19.62
+  },
+  {
+    "name": "Marnie Hawson",
+    "url": "https://www.climateneutral.org/brand/marnie-hawson",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 4.0,
+    "total_offset_expenditure": 358.75,
+    "total_offsets_tons_co2": 25.0,
+    "price_per_ton": 14.35
+  },
+  {
+    "name": "Mast Furniture",
+    "url": "https://www.climateneutral.org/brand/mast-furniture",
+    "scope_1": 23.0,
+    "scope_2": 0.0,
+    "scope_3": 240.0,
+    "total_offset_expenditure": 1518.0,
+    "total_offsets_tons_co2": 264.0,
+    "price_per_ton": 5.75
+  },
+  {
+    "name": "MATE the Label",
+    "url": "https://www.climateneutral.org/brand/mate-the-label",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 1261.0,
+    "total_offset_expenditure": 10088.0,
+    "total_offsets_tons_co2": 1261.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "Memori",
+    "url": "https://www.climateneutral.org/brand/memori",
+    "scope_1": 0.0,
+    "scope_2": 3.0,
+    "scope_3": 1061.0,
+    "total_offset_expenditure": 10108.0,
+    "total_offsets_tons_co2": 1064.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "MiiR",
+    "url": "https://www.climateneutral.org/brand/miir",
+    "scope_1": 14.0,
+    "scope_2": 36.0,
+    "scope_3": 13039.0,
+    "total_offset_expenditure": 158204.6,
+    "total_offsets_tons_co2": 13151.0,
+    "price_per_ton": 12.029853243099385
+  },
+  {
+    "name": "MindEdge",
+    "url": "https://www.climateneutral.org/brand/mindedge",
+    "scope_1": 0.0,
+    "scope_2": 5.0,
+    "scope_3": 277.0,
+    "total_offset_expenditure": 2679.0,
+    "total_offsets_tons_co2": 282.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Minty Made",
+    "url": "https://www.climateneutral.org/brand/minty-made",
+    "scope_1": 0.0,
+    "scope_2": 3.0,
+    "scope_3": 5.0,
+    "total_offset_expenditure": 93.75,
+    "total_offsets_tons_co2": 8.0,
+    "price_per_ton": 11.71875
+  },
+  {
+    "name": "Modern Adventure",
+    "url": "https://www.climateneutral.org/brand/modern-adventure",
+    "scope_1": 7.0,
+    "scope_2": 169.0,
+    "scope_3": 335.0,
+    "total_offset_expenditure": 5874.75,
+    "total_offsets_tons_co2": 511.0,
+    "price_per_ton": 11.496575342465754
+  },
+  {
+    "name": "Modern Standard Coffee",
+    "url": "https://www.climateneutral.org/brand/modern-standard-coffee",
+    "scope_1": 6.0,
+    "scope_2": 0.0,
+    "scope_3": 81.0,
+    "total_offset_expenditure": 565.5,
+    "total_offsets_tons_co2": 87.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "Molly Mutt",
+    "url": "https://www.climateneutral.org/brand/molly-mutt",
+    "scope_1": 1.0,
+    "scope_2": 3.0,
+    "scope_3": 1842.0,
+    "total_offset_expenditure": 16900.0,
+    "total_offsets_tons_co2": 1900.0,
+    "price_per_ton": 8.894736842105264
+  },
+  {
+    "name": "Monos",
+    "url": "https://www.climateneutral.org/brand/monos",
+    "scope_1": 0.0,
+    "scope_2": 241.0,
+    "scope_3": 31142.0,
+    "total_offset_expenditure": 412699.6,
+    "total_offsets_tons_co2": 31384.0,
+    "price_per_ton": 13.149999999999999
+  },
+  {
+    "name": "MyHEAT",
+    "url": "https://www.climateneutral.org/brand/myheat",
+    "scope_1": 0.0,
+    "scope_2": 13.0,
+    "scope_3": 64.0,
+    "total_offset_expenditure": 957.22,
+    "total_offsets_tons_co2": 78.0,
+    "price_per_ton": 12.272051282051283
+  },
+  {
+    "name": "NAAWA CONSULTING",
+    "url": "https://www.climateneutral.org/brand/naawa-consulting",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 11.0,
+    "total_offset_expenditure": 87.0,
+    "total_offsets_tons_co2": 12.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Nanimarquina",
+    "url": "https://www.climateneutral.org/brand/nanimarquina",
+    "scope_1": 4.0,
+    "scope_2": 29.0,
+    "scope_3": 3120.0,
+    "total_offset_expenditure": 16553.25,
+    "total_offsets_tons_co2": 3153.0,
+    "price_per_ton": 5.25
+  },
+  {
+    "name": "Natural Learning Northwest",
+    "url": "https://www.climateneutral.org/brand/natural-learning-northwest",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 2.0,
+    "total_offset_expenditure": 21.0,
+    "total_offsets_tons_co2": 3.0,
+    "price_per_ton": 7.0
+  },
+  {
+    "name": "Necessaire",
+    "url": "https://www.climateneutral.org/brand/necessaire",
+    "scope_1": 6.0,
+    "scope_2": 55.0,
+    "scope_3": 3773.0,
+    "total_offset_expenditure": 64264.0,
+    "total_offsets_tons_co2": 3834.0,
+    "price_per_ton": 16.761606677099635
+  },
+  {
+    "name": "Needed",
+    "url": "https://www.climateneutral.org/brand/needed",
+    "scope_1": 0.0,
+    "scope_2": 8.0,
+    "scope_3": 1421.0,
+    "total_offset_expenditure": 9295.0,
+    "total_offsets_tons_co2": 1430.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "New Sprout Organic Farms, LLC",
+    "url": "https://www.climateneutral.org/brand/new-sprout-organic-farms-llc",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 3094.0,
+    "total_offset_expenditure": 16712.5,
+    "total_offsets_tons_co2": 3094.0,
+    "price_per_ton": 5.40158371040724
+  },
+  {
+    "name": "Nimble",
+    "url": "https://www.climateneutral.org/brand/nimble-for-good",
+    "scope_1": 0.0,
+    "scope_2": 5.0,
+    "scope_3": 1322.0,
+    "total_offset_expenditure": 12999.25,
+    "total_offsets_tons_co2": 1327.0,
+    "price_per_ton": 9.795968349660889
+  },
+  {
+    "name": "Nisolo",
+    "url": "https://www.climateneutral.org/brand/nisolo",
+    "scope_1": 8.0,
+    "scope_2": 60.0,
+    "scope_3": 4430.0,
+    "total_offset_expenditure": 60736.5,
+    "total_offsets_tons_co2": 4499.0,
+    "price_per_ton": 13.5
+  },
+  {
+    "name": "Nocs",
+    "url": "https://www.climateneutral.org/brand/nocs",
+    "scope_1": 0.0,
+    "scope_2": 3.0,
+    "scope_3": 1008.0,
+    "total_offset_expenditure": 8995.5,
+    "total_offsets_tons_co2": 1011.0,
+    "price_per_ton": 8.897626112759644
+  },
+  {
+    "name": "Nomad",
+    "url": "https://www.climateneutral.org/brand/nomad",
+    "scope_1": 12.0,
+    "scope_2": 46.0,
+    "scope_3": 4892.0,
+    "total_offset_expenditure": 31211.0,
+    "total_offsets_tons_co2": 4951.0,
+    "price_per_ton": 6.303978994142597
+  },
+  {
+    "name": "NOMADIX",
+    "url": "https://www.climateneutral.org/brand/nomadix",
+    "scope_1": 2.0,
+    "scope_2": 3.0,
+    "scope_3": 771.0,
+    "total_offset_expenditure": 6224.0,
+    "total_offsets_tons_co2": 776.0,
+    "price_per_ton": 8.02061855670103
+  },
+  {
+    "name": "Numi Organic Tea",
+    "url": "https://www.climateneutral.org/brand/numi-organic-tea",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 2844.0,
+    "total_offset_expenditure": 35433.0,
+    "total_offsets_tons_co2": 2844.0,
+    "price_per_ton": 12.458860759493671
+  },
+  {
+    "name": "Nuun",
+    "url": "https://www.climateneutral.org/brand/nuun",
+    "scope_1": 9.0,
+    "scope_2": 0.0,
+    "scope_3": 15427.0,
+    "total_offset_expenditure": 125040.0,
+    "total_offsets_tons_co2": 15437.0,
+    "price_per_ton": 8.100019433827816
+  },
+  {
+    "name": "NW Commonwealth LLC",
+    "url": "https://www.climateneutral.org/brand/nw-commonwealth",
+    "scope_1": 920.0,
+    "scope_2": 0.0,
+    "scope_3": 28577.0,
+    "total_offset_expenditure": 171517.0,
+    "total_offsets_tons_co2": 32124.0,
+    "price_per_ton": 5.339216784958286
+  },
+  {
+    "name": "O2 Recovery Drink",
+    "url": "https://www.climateneutral.org/brand/o2-natural-recovery",
+    "scope_1": 2.0,
+    "scope_2": 0.0,
+    "scope_3": 2054.0,
+    "total_offset_expenditure": 19290.0,
+    "total_offsets_tons_co2": 2116.0,
+    "price_per_ton": 9.116257088846881
+  },
+  {
+    "name": "Ocio Leisurewear",
+    "url": "https://www.climateneutral.org/brand/ocio-leisurewear",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 96.0,
+    "total_offset_expenditure": 1132.13,
+    "total_offsets_tons_co2": 100.0,
+    "price_per_ton": 11.3213
+  },
+  {
+    "name": "Omnia 1 Analytics",
+    "url": "https://www.climateneutral.org/brand/omnia-1-analytics",
+    "scope_1": 1.0,
+    "scope_2": 19.0,
+    "scope_3": 39.0,
+    "total_offset_expenditure": 549.75,
+    "total_offsets_tons_co2": 59.0,
+    "price_per_ton": 9.317796610169491
+  },
+  {
+    "name": "Once Films",
+    "url": "https://www.climateneutral.org/brand/once-films",
+    "scope_1": 1.0,
+    "scope_2": 23.0,
+    "scope_3": 45.0,
+    "total_offset_expenditure": 520.0,
+    "total_offsets_tons_co2": 80.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "Open Water",
+    "url": "https://www.climateneutral.org/brand/open-water",
+    "scope_1": 1.0,
+    "scope_2": 5.0,
+    "scope_3": 4515.0,
+    "total_offset_expenditure": 40750.0,
+    "total_offsets_tons_co2": 5000.0,
+    "price_per_ton": 8.15
+  },
+  {
+    "name": "Orbitkey",
+    "url": "https://www.climateneutral.org/brand/orbitkey",
+    "scope_1": 0.0,
+    "scope_2": 287.0,
+    "scope_3": 4121.0,
+    "total_offset_expenditure": 35465.0,
+    "total_offsets_tons_co2": 4410.0,
+    "price_per_ton": 8.041950113378684
+  },
+  {
+    "name": "Ornot",
+    "url": "https://www.climateneutral.org/brand/ornot",
+    "scope_1": 1.0,
+    "scope_2": 15.0,
+    "scope_3": 902.0,
+    "total_offset_expenditure": 7705.0,
+    "total_offsets_tons_co2": 980.0,
+    "price_per_ton": 7.862244897959184
+  },
+  {
+    "name": "OSEA Malibu",
+    "url": "https://www.climateneutral.org/brand/osea-malibu",
+    "scope_1": 2.0,
+    "scope_2": 0.0,
+    "scope_3": 7623.0,
+    "total_offset_expenditure": 137232.0,
+    "total_offsets_tons_co2": 7624.0,
+    "price_per_ton": 18.0
+  },
+  {
+    "name": "Outer Shell",
+    "url": "https://www.climateneutral.org/brand/outer-shell",
+    "scope_1": 5.0,
+    "scope_2": 19.0,
+    "scope_3": 79.0,
+    "total_offset_expenditure": 972.0,
+    "total_offsets_tons_co2": 102.0,
+    "price_per_ton": 9.529411764705882
+  },
+  {
+    "name": "Oxygen Plus, Inc.",
+    "url": "https://www.climateneutral.org/brand/oxygen-plus",
+    "scope_1": 1.0,
+    "scope_2": 8.0,
+    "scope_3": 2169.0,
+    "total_offset_expenditure": 14150.5,
+    "total_offsets_tons_co2": 2177.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "P.F. Candle Co.",
+    "url": "https://www.climateneutral.org/brand/p-f-candle-co",
+    "scope_1": 3.0,
+    "scope_2": 0.0,
+    "scope_3": 1899.0,
+    "total_offset_expenditure": 16167.0,
+    "total_offsets_tons_co2": 1902.0,
+    "price_per_ton": 8.5
+  },
+  {
+    "name": "Pacific Watch Co",
+    "url": "https://www.climateneutral.org/brand/pacific-watch-co",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 4.0,
+    "total_offset_expenditure": 71.25,
+    "total_offsets_tons_co2": 5.0,
+    "price_per_ton": 14.25
+  },
+  {
+    "name": "Pamela Love",
+    "url": "https://www.climateneutral.org/brand/pamela-love",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 1048.0,
+    "total_offset_expenditure": 7222.5,
+    "total_offsets_tons_co2": 1138.0,
+    "price_per_ton": 6.3466608084358525
+  },
+  {
+    "name": "Parachute Home",
+    "url": "https://www.climateneutral.org/brand/parachute-home",
+    "scope_1": 21.0,
+    "scope_2": 207.0,
+    "scope_3": 22949.0,
+    "total_offset_expenditure": 321194.7,
+    "total_offsets_tons_co2": 23177.0,
+    "price_per_ton": 13.858338007507443
+  },
+  {
+    "name": "Paravel",
+    "url": "https://www.climateneutral.org/brand/paravel",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 6721.0,
+    "total_offset_expenditure": 80097.0,
+    "total_offsets_tons_co2": 6723.0,
+    "price_per_ton": 11.913877733154841
+  },
+  {
+    "name": "Peak Design",
+    "url": "https://www.climateneutral.org/brand/peak-design",
+    "scope_1": 1.0,
+    "scope_2": 1.0,
+    "scope_3": 31835.0,
+    "total_offset_expenditure": 127348.0,
+    "total_offsets_tons_co2": 31837.0,
+    "price_per_ton": 4.0
+  },
+  {
+    "name": "Pela",
+    "url": "https://www.climateneutral.org/brand/pela",
+    "scope_1": 15.0,
+    "scope_2": 1.0,
+    "scope_3": 3727.0,
+    "total_offset_expenditure": 45677.0,
+    "total_offsets_tons_co2": 3744.0,
+    "price_per_ton": 12.200053418803419
+  },
+  {
+    "name": "Perr & Knight Consulting",
+    "url": "https://www.climateneutral.org/brand/perr-and-knight",
+    "scope_1": 33.0,
+    "scope_2": 192.0,
+    "scope_3": 221.0,
+    "total_offset_expenditure": 8875.0,
+    "total_offsets_tons_co2": 450.0,
+    "price_per_ton": 19.72222222222222
+  },
+  {
+    "name": "Petaluma",
+    "url": "https://www.climateneutral.org/brand/petaluma",
+    "scope_1": 0.0,
+    "scope_2": 3.0,
+    "scope_3": 309.0,
+    "total_offset_expenditure": 2028.0,
+    "total_offsets_tons_co2": 312.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "Pine & Palm Home",
+    "url": "https://www.climateneutral.org/brand/pine-and-palm-home",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 27.0,
+    "total_offset_expenditure": 198.75,
+    "total_offsets_tons_co2": 27.0,
+    "price_per_ton": 7.361111111111111
+  },
+  {
+    "name": "Planet+Purpose Solutions",
+    "url": "https://www.climateneutral.org/brand/planet-purpose-solutions",
+    "scope_1": 0.0,
+    "scope_2": 12.0,
+    "scope_3": 23.0,
+    "total_offset_expenditure": 360.0,
+    "total_offsets_tons_co2": 36.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Point B",
+    "url": "https://www.climateneutral.org/brand/point-b",
+    "scope_1": 12.0,
+    "scope_2": 133.0,
+    "scope_3": 6047.0,
+    "total_offset_expenditure": 73359.5,
+    "total_offsets_tons_co2": 6192.0,
+    "price_per_ton": 11.847464470284237
+  },
+  {
+    "name": "PopSockets",
+    "url": "https://www.climateneutral.org/brand/popsockets",
+    "scope_1": 3.0,
+    "scope_2": 11.0,
+    "scope_3": 8933.0,
+    "total_offset_expenditure": 121621.08,
+    "total_offsets_tons_co2": 8946.0,
+    "price_per_ton": 13.595023474178404
+  },
+  {
+    "name": "Post Company",
+    "url": "https://www.climateneutral.org/brand/post-company",
+    "scope_1": 3.0,
+    "scope_2": 70.0,
+    "scope_3": 139.0,
+    "total_offset_expenditure": 1696.0,
+    "total_offsets_tons_co2": 212.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "Project Reef",
+    "url": "https://www.climateneutral.org/brand/project-reef",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 257.0,
+    "total_offset_expenditure": 3781.4,
+    "total_offsets_tons_co2": 259.0,
+    "price_per_ton": 14.6
+  },
+  {
+    "name": "Prose",
+    "url": "https://www.climateneutral.org/brand/prose",
+    "scope_1": 6.0,
+    "scope_2": 797.0,
+    "scope_3": 14525.0,
+    "total_offset_expenditure": 183936.0,
+    "total_offsets_tons_co2": 15328.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "PROVEN Partners",
+    "url": "https://www.climateneutral.org/brand/proven-partners",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 26.0,
+    "total_offset_expenditure": 453.75,
+    "total_offsets_tons_co2": 27.0,
+    "price_per_ton": 16.805555555555557
+  },
+  {
+    "name": "Pure Project",
+    "url": "https://www.climateneutral.org/brand/pure-project",
+    "scope_1": 105.0,
+    "scope_2": 162.0,
+    "scope_3": 721.0,
+    "total_offset_expenditure": 7912.0,
+    "total_offsets_tons_co2": 989.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "Purps",
+    "url": "https://www.climateneutral.org/brand/purps",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 135.0,
+    "total_offset_expenditure": 2108.24,
+    "total_offsets_tons_co2": 156.0,
+    "price_per_ton": 13.514358974358974
+  },
+  {
+    "name": "QEJA SOCKS",
+    "url": "https://www.climateneutral.org/brand/qeja-socks",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 11.0,
+    "total_offset_expenditure": 156.5,
+    "total_offsets_tons_co2": 11.0,
+    "price_per_ton": 14.227272727272727
+  },
+  {
+    "name": "Rainbo",
+    "url": "https://www.climateneutral.org/brand/rainbo",
+    "scope_1": 0.0,
+    "scope_2": 4.0,
+    "scope_3": 525.0,
+    "total_offset_expenditure": 6348.0,
+    "total_offsets_tons_co2": 529.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "REBO Bottle",
+    "url": "https://www.climateneutral.org/brand/rebo-bottle",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 828.0,
+    "total_offset_expenditure": 7866.0,
+    "total_offsets_tons_co2": 828.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Reformation",
+    "url": "https://www.climateneutral.org/brand/reformation",
+    "scope_1": 110.0,
+    "scope_2": 0.0,
+    "scope_3": 34353.0,
+    "total_offset_expenditure": 263205.12,
+    "total_offsets_tons_co2": 36822.0,
+    "price_per_ton": 7.148039758839824
+  },
+  {
+    "name": "REI",
+    "url": "https://www.climateneutral.org/brand/rei",
+    "scope_1": 5862.0,
+    "scope_2": 0.0,
+    "scope_3": 314437.0,
+    "total_offset_expenditure": 1144318.25,
+    "total_offsets_tons_co2": 320300.0,
+    "price_per_ton": 3.5726451763971276
+  },
+  {
+    "name": "Renoun",
+    "url": "https://www.climateneutral.org/brand/renoun",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 217.0,
+    "total_offset_expenditure": 1580.5,
+    "total_offsets_tons_co2": 218.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Rep Your Water",
+    "url": "https://www.climateneutral.org/brand/rep-your-water",
+    "scope_1": 1.0,
+    "scope_2": 3.0,
+    "scope_3": 1953.0,
+    "total_offset_expenditure": 15173.5,
+    "total_offsets_tons_co2": 1960.0,
+    "price_per_ton": 7.7415816326530615
+  },
+  {
+    "name": "Rhoback, INC",
+    "url": "https://www.climateneutral.org/brand/rhoback-inc",
+    "scope_1": 133.0,
+    "scope_2": 248.0,
+    "scope_3": 7338.0,
+    "total_offset_expenditure": 44771.0,
+    "total_offsets_tons_co2": 7719.0,
+    "price_per_ton": 5.800103640367923
+  },
+  {
+    "name": "Rizos Curls",
+    "url": "https://www.climateneutral.org/brand/rizos-curls",
+    "scope_1": 1.0,
+    "scope_2": 27.0,
+    "scope_3": 2891.0,
+    "total_offset_expenditure": 27740.0,
+    "total_offsets_tons_co2": 2920.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "RoAndCo",
+    "url": "https://www.climateneutral.org/brand/roandco",
+    "scope_1": 5.0,
+    "scope_2": 120.0,
+    "scope_3": 238.0,
+    "total_offset_expenditure": 2880.98,
+    "total_offsets_tons_co2": 364.0,
+    "price_per_ton": 7.91478021978022
+  },
+  {
+    "name": "Rocky Talkie",
+    "url": "https://www.climateneutral.org/brand/rocky-talkie",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 1627.0,
+    "total_offset_expenditure": 22339.0,
+    "total_offsets_tons_co2": 1629.0,
+    "price_per_ton": 13.713321055862492
+  },
+  {
+    "name": "Rumpl",
+    "url": "https://www.climateneutral.org/brand/rumpl",
+    "scope_1": 10.0,
+    "scope_2": 12.0,
+    "scope_3": 9504.0,
+    "total_offset_expenditure": 103612.5,
+    "total_offsets_tons_co2": 9526.0,
+    "price_per_ton": 10.876810833508292
+  },
+  {
+    "name": "rygr",
+    "url": "https://www.climateneutral.org/brand/rygr",
+    "scope_1": 1.0,
+    "scope_2": 37.0,
+    "scope_3": 74.0,
+    "total_offset_expenditure": 2334.0,
+    "total_offsets_tons_co2": 112.0,
+    "price_per_ton": 20.839285714285715
+  },
+  {
+    "name": "Saie",
+    "url": "https://www.climateneutral.org/brand/saie",
+    "scope_1": 65.0,
+    "scope_2": 94.0,
+    "scope_3": 10510.0,
+    "total_offset_expenditure": 114133.6,
+    "total_offsets_tons_co2": 10669.0,
+    "price_per_ton": 10.697684881432187
+  },
+  {
+    "name": "salty aura",
+    "url": "https://www.climateneutral.org/brand/salty-aura",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 132.0,
+    "total_offset_expenditure": 1495.25,
+    "total_offsets_tons_co2": 133.0,
+    "price_per_ton": 11.242481203007518
+  },
+  {
+    "name": "Salvona",
+    "url": "https://www.climateneutral.org/brand/salvona",
+    "scope_1": 196.0,
+    "scope_2": 312.0,
+    "scope_3": 1990.0,
+    "total_offset_expenditure": 29976.0,
+    "total_offsets_tons_co2": 2498.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "saucybean",
+    "url": "https://www.climateneutral.org/brand/saucybean",
+    "scope_1": 2.0,
+    "scope_2": 0.0,
+    "scope_3": 107.0,
+    "total_offset_expenditure": 1040.95,
+    "total_offsets_tons_co2": 109.0,
+    "price_per_ton": 9.55
+  },
+  {
+    "name": "SAYLOR NYC INC",
+    "url": "https://www.climateneutral.org/brand/saylor-nyc",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 2319.0,
+    "total_offset_expenditure": 23337.5,
+    "total_offsets_tons_co2": 2322.0,
+    "price_per_ton": 10.050602928509905
+  },
+  {
+    "name": "Scout Books",
+    "url": "https://www.climateneutral.org/brand/scout-books",
+    "scope_1": 3.0,
+    "scope_2": 26.0,
+    "scope_3": 66.0,
+    "total_offset_expenditure": 725.0,
+    "total_offsets_tons_co2": 100.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Seadon",
+    "url": "https://www.climateneutral.org/brand/seadon",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 70.0,
+    "total_offset_expenditure": 507.5,
+    "total_offsets_tons_co2": 70.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Season Eqpt",
+    "url": "https://www.climateneutral.org/brand/season-eqpt",
+    "scope_1": 8.0,
+    "scope_2": 3.0,
+    "scope_3": 158.0,
+    "total_offset_expenditure": 1685.0,
+    "total_offsets_tons_co2": 169.0,
+    "price_per_ton": 9.970414201183432
+  },
+  {
+    "name": "Seed Phytonutrients",
+    "url": "https://www.climateneutral.org/brand/seed-phytonutrients",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 273.0,
+    "total_offset_expenditure": 2517.0,
+    "total_offsets_tons_co2": 274.0,
+    "price_per_ton": 9.186131386861314
+  },
+  {
+    "name": "Sendle",
+    "url": "https://www.climateneutral.org/brand/sendle",
+    "scope_1": 43.0,
+    "scope_2": 9.0,
+    "scope_3": 1049.0,
+    "total_offset_expenditure": 190600.0,
+    "total_offsets_tons_co2": 7000.0,
+    "price_per_ton": 27.228571428571428
+  },
+  {
+    "name": "Sensiba",
+    "url": "https://www.climateneutral.org/brand/sensiba",
+    "scope_1": 65.0,
+    "scope_2": 153.0,
+    "scope_3": 1041.0,
+    "total_offset_expenditure": 19158.0,
+    "total_offsets_tons_co2": 1259.0,
+    "price_per_ton": 15.216838760921366
+  },
+  {
+    "name": "Sevilla Smith",
+    "url": "https://www.climateneutral.org/brand/sevilla-smith",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 50.0,
+    "total_offset_expenditure": 754.0,
+    "total_offsets_tons_co2": 52.0,
+    "price_per_ton": 14.5
+  },
+  {
+    "name": "Sh\u00c4\u0081r",
+    "url": "https://www.climateneutral.org/brand/shar",
+    "scope_1": 4.0,
+    "scope_2": 12.0,
+    "scope_3": 114.0,
+    "total_offset_expenditure": 2170.2,
+    "total_offsets_tons_co2": 131.0,
+    "price_per_ton": 16.566412213740456
+  },
+  {
+    "name": "Simple & Dainty",
+    "url": "https://www.climateneutral.org/brand/simple-and-dainty",
+    "scope_1": 0.0,
+    "scope_2": 132.0,
+    "scope_3": 136.0,
+    "total_offset_expenditure": 2680.0,
+    "total_offsets_tons_co2": 268.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Simpleswitch.org",
+    "url": "https://www.climateneutral.org/brand/simpleswitch-org",
+    "scope_1": 0.0,
+    "scope_2": 5.0,
+    "scope_3": 5.0,
+    "total_offset_expenditure": 128.25,
+    "total_offsets_tons_co2": 9.0,
+    "price_per_ton": 14.25
+  },
+  {
+    "name": "Ski Butlers",
+    "url": "https://www.climateneutral.org/brand/ski-butlers",
+    "scope_1": 296.0,
+    "scope_2": 34.0,
+    "scope_3": 433.0,
+    "total_offset_expenditure": 9156.0,
+    "total_offsets_tons_co2": 763.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "Ski Utah",
+    "url": "https://www.climateneutral.org/brand/ski-utah",
+    "scope_1": 2.0,
+    "scope_2": 38.0,
+    "scope_3": 76.0,
+    "total_offset_expenditure": 4408.0,
+    "total_offsets_tons_co2": 116.0,
+    "price_per_ton": 38.0
+  },
+  {
+    "name": "SmugMug",
+    "url": "https://www.climateneutral.org/brand/smugmug",
+    "scope_1": 15.0,
+    "scope_2": 246.0,
+    "scope_3": 2234.0,
+    "total_offset_expenditure": 48976.85,
+    "total_offsets_tons_co2": 2495.0,
+    "price_per_ton": 19.63
+  },
+  {
+    "name": "Snaplinc Consulting",
+    "url": "https://www.climateneutral.org/brand/snaplinc-consulting",
+    "scope_1": 0.0,
+    "scope_2": 6.0,
+    "scope_3": 12.0,
+    "total_offset_expenditure": 261.0,
+    "total_offsets_tons_co2": 18.0,
+    "price_per_ton": 14.5
+  },
+  {
+    "name": "Soar Organics",
+    "url": "https://www.climateneutral.org/brand/soar-organics",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 40.0,
+    "total_offset_expenditure": 400.0,
+    "total_offsets_tons_co2": 40.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Soleil Soleil",
+    "url": "https://www.climateneutral.org/brand/soleil-soleil",
+    "scope_1": 1.0,
+    "scope_2": 0.0,
+    "scope_3": 52.0,
+    "total_offset_expenditure": 567.0,
+    "total_offsets_tons_co2": 53.0,
+    "price_per_ton": 10.69811320754717
+  },
+  {
+    "name": "Someone Somewhere",
+    "url": "https://www.climateneutral.org/brand/someone-somewhere",
+    "scope_1": 1.0,
+    "scope_2": 1.0,
+    "scope_3": 1365.0,
+    "total_offset_expenditure": 12986.5,
+    "total_offsets_tons_co2": 1367.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Sozy",
+    "url": "https://www.climateneutral.org/brand/sozy",
+    "scope_1": 0.0,
+    "scope_2": 10.0,
+    "scope_3": 424.0,
+    "total_offset_expenditure": 5208.0,
+    "total_offsets_tons_co2": 434.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "Standart",
+    "url": "https://www.climateneutral.org/brand/standart",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 152.0,
+    "total_offset_expenditure": 1828.5,
+    "total_offsets_tons_co2": 152.0,
+    "price_per_ton": 12.029605263157896
+  },
+  {
+    "name": "StatusGator",
+    "url": "https://www.climateneutral.org/brand/statusgator",
+    "scope_1": 0.0,
+    "scope_2": 8.0,
+    "scope_3": 17.0,
+    "total_offset_expenditure": 848.0,
+    "total_offsets_tons_co2": 25.0,
+    "price_per_ton": 33.92
+  },
+  {
+    "name": "Sterling Rope",
+    "url": "https://www.climateneutral.org/brand/sterling-rope",
+    "scope_1": 120.0,
+    "scope_2": 175.0,
+    "scope_3": 4184.0,
+    "total_offset_expenditure": 45040.0,
+    "total_offsets_tons_co2": 4478.0,
+    "price_per_ton": 10.05806163465833
+  },
+  {
+    "name": "Stickbulb",
+    "url": "https://www.climateneutral.org/brand/stickbulb",
+    "scope_1": 27.0,
+    "scope_2": 0.0,
+    "scope_3": 230.0,
+    "total_offset_expenditure": 2570.0,
+    "total_offsets_tons_co2": 257.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Stio",
+    "url": "https://www.climateneutral.org/brand/stio",
+    "scope_1": 2.0,
+    "scope_2": 202.0,
+    "scope_3": 14582.0,
+    "total_offset_expenditure": 0.0,
+    "total_offsets_tons_co2": 7609.0,
+    "price_per_ton": 0.0
+  },
+  {
+    "name": "Stranda Snowboards",
+    "url": "https://www.climateneutral.org/brand/stranda-snowboards",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 180.0,
+    "total_offset_expenditure": 1267.0,
+    "total_offsets_tons_co2": 181.0,
+    "price_per_ton": 7.0
+  },
+  {
+    "name": "Stubble and Co.",
+    "url": "https://www.climateneutral.org/brand/stubble-and-co",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 1482.0,
+    "total_offset_expenditure": 14079.0,
+    "total_offsets_tons_co2": 1482.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Summit Coffee Roasting Co.",
+    "url": "https://www.climateneutral.org/brand/summit-coffee",
+    "scope_1": 8.0,
+    "scope_2": 99.0,
+    "scope_3": 458.0,
+    "total_offset_expenditure": 5640.0,
+    "total_offsets_tons_co2": 564.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Sunday Afternoons",
+    "url": "https://www.climateneutral.org/brand/sunday-afternoons",
+    "scope_1": 25.0,
+    "scope_2": 121.0,
+    "scope_3": 4114.0,
+    "total_offset_expenditure": 21172.2,
+    "total_offsets_tons_co2": 4260.0,
+    "price_per_ton": 4.97
+  },
+  {
+    "name": "Sunday Beer Co.",
+    "url": "https://www.climateneutral.org/brand/sunday-beer",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 59.0,
+    "total_offset_expenditure": 1284.0,
+    "total_offsets_tons_co2": 60.0,
+    "price_per_ton": 21.4
+  },
+  {
+    "name": "Sunski",
+    "url": "https://www.climateneutral.org/brand/sunski",
+    "scope_1": 4.0,
+    "scope_2": 3.0,
+    "scope_3": 1245.0,
+    "total_offset_expenditure": 11896.0,
+    "total_offsets_tons_co2": 1252.0,
+    "price_per_ton": 9.501597444089457
+  },
+  {
+    "name": "Supercharge Ltd",
+    "url": "https://www.climateneutral.org/brand/supercharge",
+    "scope_1": 57.0,
+    "scope_2": 29.0,
+    "scope_3": 498.0,
+    "total_offset_expenditure": 3796.0,
+    "total_offsets_tons_co2": 584.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "Sustainability Accelerator",
+    "url": "https://www.climateneutral.org/brand/sustainability-accelerator",
+    "scope_1": 0.0,
+    "scope_2": 5.0,
+    "scope_3": 7.0,
+    "total_offset_expenditure": 140.75,
+    "total_offsets_tons_co2": 12.0,
+    "price_per_ton": 11.729166666666666
+  },
+  {
+    "name": "Sutsu",
+    "url": "https://www.climateneutral.org/brand/sutsu",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 1126.0,
+    "total_offset_expenditure": 3378.0,
+    "total_offsets_tons_co2": 1126.0,
+    "price_per_ton": 3.0
+  },
+  {
+    "name": "Tandem Coffee",
+    "url": "https://www.climateneutral.org/brand/tandem-coffee",
+    "scope_1": 22.0,
+    "scope_2": 317.0,
+    "scope_3": 1135.0,
+    "total_offset_expenditure": 18315.25,
+    "total_offsets_tons_co2": 1473.0,
+    "price_per_ton": 12.43397827562797
+  },
+  {
+    "name": "TECODA",
+    "url": "https://www.climateneutral.org/brand/tecoda",
+    "scope_1": 1.0,
+    "scope_2": 8.0,
+    "scope_3": 35.0,
+    "total_offset_expenditure": 341.0,
+    "total_offsets_tons_co2": 44.0,
+    "price_per_ton": 7.75
+  },
+  {
+    "name": "tentree",
+    "url": "https://www.climateneutral.org/brand/tentree",
+    "scope_1": 21.0,
+    "scope_2": 0.0,
+    "scope_3": 13744.0,
+    "total_offset_expenditure": 63525.0,
+    "total_offsets_tons_co2": 14000.0,
+    "price_per_ton": 4.5375
+  },
+  {
+    "name": "Thatcher",
+    "url": "https://www.climateneutral.org/brand/thatcher",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 468.0,
+    "total_offset_expenditure": 3846.75,
+    "total_offsets_tons_co2": 469.0,
+    "price_per_ton": 8.202025586353944
+  },
+  {
+    "name": "The Chris Bertish Foundation",
+    "url": "https://www.climateneutral.org/brand/the-chris-bertish-foundation",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 1.0,
+    "total_offset_expenditure": 19.0,
+    "total_offsets_tons_co2": 2.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "The Cushion Lab",
+    "url": "https://www.climateneutral.org/brand/the-cushion-lab",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 513.0,
+    "total_offset_expenditure": 10733.0,
+    "total_offsets_tons_co2": 1004.0,
+    "price_per_ton": 10.6902390438247
+  },
+  {
+    "name": "The Disruption Society",
+    "url": "https://www.climateneutral.org/brand/the-disruption-society",
+    "scope_1": 0.0,
+    "scope_2": 6.0,
+    "scope_3": 11.0,
+    "total_offset_expenditure": 136.0,
+    "total_offsets_tons_co2": 17.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "The Earthling Co.",
+    "url": "https://www.climateneutral.org/brand/the-earthling-co",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 686.0,
+    "total_offset_expenditure": 4973.5,
+    "total_offsets_tons_co2": 686.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "The Longest Thread",
+    "url": "https://www.climateneutral.org/brand/the-longest-thread",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 84.0,
+    "total_offset_expenditure": 1134.0,
+    "total_offsets_tons_co2": 84.0,
+    "price_per_ton": 13.5
+  },
+  {
+    "name": "The Resell Club",
+    "url": "https://www.climateneutral.org/brand/the-resell-club",
+    "scope_1": 0.0,
+    "scope_2": 15.0,
+    "scope_3": 13.0,
+    "total_offset_expenditure": 182.0,
+    "total_offsets_tons_co2": 28.0,
+    "price_per_ton": 6.5
+  },
+  {
+    "name": "The Scrubba",
+    "url": "https://www.climateneutral.org/brand/the-scrubba",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 672.0,
+    "total_offset_expenditure": 5801.0,
+    "total_offsets_tons_co2": 672.0,
+    "price_per_ton": 8.632440476190476
+  },
+  {
+    "name": "thinkPARALLAX",
+    "url": "https://www.climateneutral.org/brand/thinkparallax",
+    "scope_1": 5.0,
+    "scope_2": 128.0,
+    "scope_3": 253.0,
+    "total_offset_expenditure": 5245.74,
+    "total_offsets_tons_co2": 386.0,
+    "price_per_ton": 13.59
+  },
+  {
+    "name": "Thrive Market",
+    "url": "https://www.climateneutral.org/brand/thrive-market",
+    "scope_1": 1188.0,
+    "scope_2": 0.0,
+    "scope_3": 46262.0,
+    "total_offset_expenditure": 296255.0,
+    "total_offsets_tons_co2": 47500.0,
+    "price_per_ton": 6.236947368421053
+  },
+  {
+    "name": "Topiku",
+    "url": "https://www.climateneutral.org/brand/topiku",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 64.0,
+    "total_offset_expenditure": 603.9,
+    "total_offsets_tons_co2": 64.0,
+    "price_per_ton": 9.4359375
+  },
+  {
+    "name": "TOPO Collective",
+    "url": "https://www.climateneutral.org/brand/topo-collective",
+    "scope_1": 0.0,
+    "scope_2": 4.0,
+    "scope_3": 7.0,
+    "total_offset_expenditure": 159.5,
+    "total_offsets_tons_co2": 11.0,
+    "price_per_ton": 14.5
+  },
+  {
+    "name": "Tripulse",
+    "url": "https://www.climateneutral.org/brand/tripulse",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 21.0,
+    "total_offset_expenditure": 220.65,
+    "total_offsets_tons_co2": 21.0,
+    "price_per_ton": 10.507142857142858
+  },
+  {
+    "name": "True North Gear",
+    "url": "https://www.climateneutral.org/brand/true-north-gear",
+    "scope_1": 32.0,
+    "scope_2": 34.0,
+    "scope_3": 3250.0,
+    "total_offset_expenditure": 33170.0,
+    "total_offsets_tons_co2": 3317.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "Untold Storytelling",
+    "url": "https://www.climateneutral.org/brand/untold-storytelling",
+    "scope_1": 2.0,
+    "scope_2": 35.0,
+    "scope_3": 42.0,
+    "total_offset_expenditure": 1027.0,
+    "total_offsets_tons_co2": 90.0,
+    "price_per_ton": 11.411111111111111
+  },
+  {
+    "name": "Vahdam Teas",
+    "url": "https://www.climateneutral.org/brand/vahdam-teas",
+    "scope_1": 8.0,
+    "scope_2": 542.0,
+    "scope_3": 2215.0,
+    "total_offset_expenditure": 11474.75,
+    "total_offsets_tons_co2": 2765.0,
+    "price_per_ton": 4.15
+  },
+  {
+    "name": "Vargo Outdoors",
+    "url": "https://www.climateneutral.org/brand/vargo-outdoors",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 1331.0,
+    "total_offset_expenditure": 8241.0,
+    "total_offsets_tons_co2": 1340.0,
+    "price_per_ton": 6.15
+  },
+  {
+    "name": "Vincero",
+    "url": "https://www.climateneutral.org/brand/vincero-watches",
+    "scope_1": 0.0,
+    "scope_2": 21.0,
+    "scope_3": 2376.0,
+    "total_offset_expenditure": 13183.5,
+    "total_offsets_tons_co2": 2397.0,
+    "price_per_ton": 5.5
+  },
+  {
+    "name": "Vintner's Daughter",
+    "url": "https://www.climateneutral.org/brand/vintners-daughter",
+    "scope_1": 11.0,
+    "scope_2": 25.0,
+    "scope_3": 897.0,
+    "total_offset_expenditure": 24957.75,
+    "total_offsets_tons_co2": 933.0,
+    "price_per_ton": 26.75
+  },
+  {
+    "name": "Vuori",
+    "url": "https://www.climateneutral.org/brand/vuori",
+    "scope_1": 486.0,
+    "scope_2": 328.0,
+    "scope_3": 62433.0,
+    "total_offset_expenditure": 670987.81,
+    "total_offsets_tons_co2": 63248.0,
+    "price_per_ton": 10.608838382241336
+  },
+  {
+    "name": "Walrus Oil",
+    "url": "https://www.climateneutral.org/brand/walrus-oil",
+    "scope_1": 21.0,
+    "scope_2": 322.0,
+    "scope_3": 457.0,
+    "total_offset_expenditure": 8000.0,
+    "total_offsets_tons_co2": 800.0,
+    "price_per_ton": 10.0
+  },
+  {
+    "name": "west~bourne",
+    "url": "https://www.climateneutral.org/brand/west-bourne",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 421.0,
+    "total_offset_expenditure": 5002.5,
+    "total_offsets_tons_co2": 421.0,
+    "price_per_ton": 11.882422802850357
+  },
+  {
+    "name": "Whitewater Brewing",
+    "url": "https://www.climateneutral.org/brand/whitewater-brewing",
+    "scope_1": 15.0,
+    "scope_2": 22.0,
+    "scope_3": 860.0,
+    "total_offset_expenditure": 8521.5,
+    "total_offsets_tons_co2": 897.0,
+    "price_per_ton": 9.5
+  },
+  {
+    "name": "Wild Elements",
+    "url": "https://www.climateneutral.org/brand/wild-elements",
+    "scope_1": 4.0,
+    "scope_2": 91.0,
+    "scope_3": 179.0,
+    "total_offset_expenditure": 2393.8,
+    "total_offsets_tons_co2": 273.0,
+    "price_per_ton": 8.76849816849817
+  },
+  {
+    "name": "Wild Rye",
+    "url": "https://www.climateneutral.org/brand/wild-rye",
+    "scope_1": 0.0,
+    "scope_2": 2.0,
+    "scope_3": 1595.0,
+    "total_offset_expenditure": 11977.5,
+    "total_offsets_tons_co2": 1597.0,
+    "price_per_ton": 7.5
+  },
+  {
+    "name": "WILDFANG",
+    "url": "https://www.climateneutral.org/brand/wildfang",
+    "scope_1": 1.0,
+    "scope_2": 9.0,
+    "scope_3": 4395.0,
+    "total_offset_expenditure": 49227.0,
+    "total_offsets_tons_co2": 4404.0,
+    "price_per_ton": 11.177792915531334
+  },
+  {
+    "name": "Wildway",
+    "url": "https://www.climateneutral.org/brand/wildway",
+    "scope_1": 9.0,
+    "scope_2": 30.0,
+    "scope_3": 273.0,
+    "total_offset_expenditure": 2124.0,
+    "total_offsets_tons_co2": 312.0,
+    "price_per_ton": 6.8076923076923075
+  },
+  {
+    "name": "Will's Vegan Store",
+    "url": "https://www.climateneutral.org/brand/wills-vegan-store",
+    "scope_1": 1.0,
+    "scope_2": 0.0,
+    "scope_3": 929.0,
+    "total_offset_expenditure": 6742.5,
+    "total_offsets_tons_co2": 930.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Wingback Ltd",
+    "url": "https://www.climateneutral.org/brand/wingback-ltd",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 245.0,
+    "total_offset_expenditure": 2977.08,
+    "total_offsets_tons_co2": 246.0,
+    "price_per_ton": 12.101951219512195
+  },
+  {
+    "name": "Wolven",
+    "url": "https://www.climateneutral.org/brand/wolven",
+    "scope_1": 0.0,
+    "scope_2": 1.0,
+    "scope_3": 980.0,
+    "total_offset_expenditure": 9463.5,
+    "total_offsets_tons_co2": 981.0,
+    "price_per_ton": 9.646788990825687
+  },
+  {
+    "name": "WOODSANDWAVES",
+    "url": "https://www.climateneutral.org/brand/woodsandwaves",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 76.0,
+    "total_offset_expenditure": 476.0,
+    "total_offsets_tons_co2": 76.0,
+    "price_per_ton": 6.2631578947368425
+  },
+  {
+    "name": "XCoSports",
+    "url": "https://www.climateneutral.org/brand/xcosports",
+    "scope_1": 67.0,
+    "scope_2": 0.0,
+    "scope_3": 766.0,
+    "total_offset_expenditure": 6664.0,
+    "total_offsets_tons_co2": 833.0,
+    "price_per_ton": 8.0
+  },
+  {
+    "name": "YAMA Mountain Gear",
+    "url": "https://www.climateneutral.org/brand/yama-mountain-gear",
+    "scope_1": 1.0,
+    "scope_2": 6.0,
+    "scope_3": 28.0,
+    "total_offset_expenditure": 442.0,
+    "total_offsets_tons_co2": 35.0,
+    "price_per_ton": 12.628571428571428
+  },
+  {
+    "name": "zkipster",
+    "url": "https://www.climateneutral.org/brand/zkipster",
+    "scope_1": 7.0,
+    "scope_2": 1.0,
+    "scope_3": 253.0,
+    "total_offset_expenditure": 3120.0,
+    "total_offsets_tons_co2": 260.0,
+    "price_per_ton": 12.0
+  },
+  {
+    "name": "Zuar",
+    "url": "https://www.climateneutral.org/brand/zuar",
+    "scope_1": 7.0,
+    "scope_2": 89.0,
+    "scope_3": 340.0,
+    "total_offset_expenditure": 3153.75,
+    "total_offsets_tons_co2": 435.0,
+    "price_per_ton": 7.25
+  },
+  {
+    "name": "Zusa",
+    "url": "https://www.climateneutral.org/brand/zusa",
+    "scope_1": 0.0,
+    "scope_2": 0.0,
+    "scope_3": 123.0,
+    "total_offset_expenditure": 988.9,
+    "total_offsets_tons_co2": 124.0,
+    "price_per_ton": 7.975
+  }
+]

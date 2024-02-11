@@ -7,9 +7,9 @@ name = "pypi"
 bs4 = "*"
 pandas = "*"
 plotly = "*"
-chart-studio = "*"
 
 [dev-packages]
+jupyter = "*"
 
 [requires]
 python_version = "3.11"

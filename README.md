@@ -22,4 +22,10 @@ First, run `scrape_brands.py` to get a list of Climate Neutral certified compani
 Unfortunately, you'll need to manually download each page of HTML from the company
 directory, since pagination via code doesn't seem to work. See the script for details.
 
-### Parsing 
+### Parsing
+
+Next, run `scrape_offsets.py` to gather information about each company's offset purchases.
+
+### Visualization
+
+See `results.ipynb` for plotting results.
